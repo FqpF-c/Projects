@@ -1,0 +1,15 @@
+# Requirements for Bone Cancer Detection System
+
+# Core packages
+Pillow>=9.0.0        # Python Imaging Library for image processing
+requests>=2.27.1     # HTTP library for API requests
+numpy>=1.22.0        # Numerical processing (if needed for future enhancements)
+
+# GUI package
+# Note: tkinter comes with standard Python installation, no pip installation needed
+
+# System requirements
+# - Python 3.7 or higher
+# - Internet connection for API access
+# - Minimum 4GB RAM recommended
+# - 100MB free disk space

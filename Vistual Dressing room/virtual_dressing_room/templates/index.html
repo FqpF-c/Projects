@@ -1,0 +1,113 @@
+<!-- templates/index.html -->
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="jumbotron text-center my-5 position-relative overflow-hidden shadow">
+    <div class="position-absolute top-0 end-0 d-none d-md-block">
+        <i class="fas fa-tshirt fa-4x text-primary opacity-10"></i>
+    </div>
+    <div class="position-absolute bottom-0 start-0 d-none d-md-block">
+        <i class="fas fa-socks fa-3x text-secondary opacity-10"></i>
+    </div>
+    
+    <h1 class="display-4 fw-bold mb-4">Virtual Dressing Room</h1>
+    <p class="lead mb-4">Experience the future of shopping - try on clothes virtually!</p>
+    <p class="mb-5">Upload your photo and experiment with different clothing combinations without the hassle of physically changing outfits.</p>
+    <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
+        <a class="btn btn-primary btn-lg px-4" href="{{ url_for('upload_photo') }}">
+            <i class="fas fa-camera me-2"></i>Try Now
+        </a>
+        <a class="btn btn-outline-secondary btn-lg px-4" href="#how-it-works">
+            <i class="fas fa-info-circle me-2"></i>Learn More
+        </a>
+    </div>
+</div>
+
+<div class="row mt-5" id="how-it-works">
+    <div class="col-12 text-center mb-4">
+        <h2 class="fw-bold">How It Works</h2>
+        <p class="lead text-muted">Simple steps to create your perfect outfit</p>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+        <div class="feature-card h-100">
+            <div class="feature-icon">
+                <i class="fas fa-user-circle"></i>
+            </div>
+            <div>
+                <h5 class="fw-bold">1. Upload Your Photo</h5>
+                <p class="mb-0">Take a full-body photo or upload an existing one to get started. Or use our default model if you prefer.</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+        <div class="feature-card h-100">
+            <div class="feature-icon">
+                <i class="fas fa-tshirt"></i>
+            </div>
+            <div>
+                <h5 class="fw-bold">2. Design Your Outfit</h5>
+                <p class="mb-0">Browse our collection of tops, bottoms, outerwear, and accessories. Mix and match to create your perfect look.</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4 mb-4">
+        <div class="feature-card h-100">
+            <div class="feature-icon">
+                <i class="fas fa-save"></i>
+            </div>
+            <div>
+                <h5 class="fw-bold">3. Save Your Creations</h5>
+                <p class="mb-0">Found a combination you love? Save your outfit with a custom name for future reference.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-5 mb-5">
+    <div class="col-12">
+        <div class="card border-0 bg-primary text-white shadow">
+            <div class="card-body p-4">
+                <h3 class="fw-bold mb-4 text-center">Why Virtual Dressing Room?</h3>
+                <div class="row">
+                    <div class="col-md-4 mb-4 mb-md-0">
+                        <div class="d-flex">
+                            <div class="me-3">
+                                <i class="fas fa-clock fa-2x"></i>
+                            </div>
+                            <div>
+                                <h5 class="fw-bold">Save Time</h5>
+                                <p class="mb-0">No more waiting in line for fitting rooms or changing multiple times.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4 mb-md-0">
+                        <div class="d-flex">
+                            <div class="me-3">
+                                <i class="fas fa-lightbulb fa-2x"></i>
+                            </div>
+                            <div>
+                                <h5 class="fw-bold">Discover New Styles</h5>
+                                <p class="mb-0">Experiment with different looks you might not try otherwise.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="d-flex">
+                            <div class="me-3">
+                                <i class="fas fa-globe fa-2x"></i>
+                            </div>
+                            <div>
+                                <h5 class="fw-bold">Shop Sustainably</h5>
+                                <p class="mb-0">Make more informed purchasing decisions and reduce returns.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

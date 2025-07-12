@@ -1,0 +1,22 @@
+Low Churn 4%
+
+Contract: Two-year
+Tenure: 65 months
+MonthlyCharges: $45.25
+TotalCharges: $2941.25
+OnlineSecurity: Yes
+TechSupport: Yes
+PaymentMethod: Bank transfer
+PaperlessBilling: Yes
+
+
+Medium Churn 50%
+
+Contract: Monthly
+Tenure: 12 months
+MonthlyCharges: $75.20
+TotalCharges: $902.40
+OnlineSecurity: No
+TechSupport: No
+PaymentMethod: Electronic check
+PaperlessBilling: Yes

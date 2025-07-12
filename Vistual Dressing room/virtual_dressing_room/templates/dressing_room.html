@@ -1,0 +1,125 @@
+<!-- templates/dressing_room.html -->
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row">
+    <!-- Model Visualization -->
+    <div class="col-lg-7">
+        <div class="card mb-4 shadow">
+            <div class="card-header d-flex align-items-center">
+                <h4 class="mb-0"><i class="fas fa-user-circle me-2"></i>Virtual Try-On</h4>
+            </div>
+            <div class="card-body text-center position-relative" id="model-container">
+                <!-- Tip message -->
+                <div class="alert alert-info mb-3">
+                    <i class="fas fa-info-circle me-2"></i> Click and drag clothing items to position them. Use the controls to resize and rotate.
+                </div>
+                
+                <!-- Base image (user or default model) -->
+                <img src="{{ user_photo }}" alt="Model" class="model-image img-fluid">
+                
+                <!-- Clothing items will be overlaid here via JavaScript -->
+                <div id="clothing-overlay"></div>
+                
+                <!-- Loading overlay -->
+                <div id="loading-overlay" class="d-none">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <p class="mt-2">Processing your outfit...</p>
+                </div>
+            </div>
+            <div class="card-footer">
+                <div class="d-flex justify-content-between">
+                    <button id="reset-outfit" class="btn-reset">
+                        <i class="fas fa-undo me-2"></i> Reset
+                    </button>
+                    <button id="save-outfit-btn" class="btn-save" data-bs-toggle="modal" data-bs-target="#saveOutfitModal">
+                        <i class="fas fa-save me-2"></i> Save Outfit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Clothing Selection -->
+    <div class="col-lg-5">
+        <div class="card shadow">
+            <div class="card-header d-flex align-items-center">
+                <h4 class="mb-0"><i class="fas fa-tshirt me-2"></i>Clothing Items</h4>
+            </div>
+            <div class="card-body p-0">
+                <ul class="nav nav-tabs" id="clothingTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tops-tab" data-bs-toggle="tab" data-bs-target="#tops" type="button" role="tab" aria-controls="tops" aria-selected="true">
+                            <i class="fas fa-tshirt me-1"></i> Tops
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="bottoms-tab" data-bs-toggle="tab" data-bs-target="#bottoms" type="button" role="tab" aria-controls="bottoms" aria-selected="false">
+                            <i class="fas fa-socks me-1"></i> Bottoms
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="outerwear-tab" data-bs-toggle="tab" data-bs-target="#outerwear" type="button" role="tab" aria-controls="outerwear" aria-selected="false">
+                            <i class="fas fa-vest me-1"></i> Outerwear
+                        </button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="accessories-tab" data-bs-toggle="tab" data-bs-target="#accessories" type="button" role="tab" aria-controls="accessories" aria-selected="false">
+                            <i class="fas fa-hat-cowboy me-1"></i> Accessories
+                        </button>
+                    </li>
+                </ul>
+                <div class="tab-content" id="clothingTabsContent">
+                    {% for category, items in clothing_items.items() %}
+                    <div class="tab-pane fade {% if category == 'tops' %}show active{% endif %}" id="{{ category }}" role="tabpanel" aria-labelledby="{{ category }}-tab">
+                        <div class="row row-cols-2 g-3 p-3">
+                            {% for item in items %}
+                            <div class="col">
+                                <div class="card h-100 clothing-item" data-id="{{ item.id }}" data-category="{{ item.category }}" data-image="{{ item.image }}">
+                                    <div class="card-img-container bg-white rounded-top text-center">
+                                        <img src="{{ item.image }}" class="img-fluid" alt="{{ item.name }}">
+                                    </div>
+                                    <div class="card-body p-2">
+                                        <h6 class="card-title mb-0 text-center">{{ item.name }}</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Save Outfit Modal -->
+<div class="modal fade" id="saveOutfitModal" tabindex="-1" aria-labelledby="saveOutfitModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="saveOutfitModalLabel">Save Your Outfit</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label for="outfit-name" class="form-label">Outfit Name</label>
+                    <input type="text" class="form-control" id="outfit-name" placeholder="My Awesome Outfit">
+                    <div class="form-text text-muted">Give your outfit a memorable name</div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary" id="save-outfit-confirm">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/dressing-room.js') }}"></script>
+{% endblock %}

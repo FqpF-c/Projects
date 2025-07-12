@@ -1,0 +1,10 @@
+category,pattern,risk,description
+Device ID,getDeviceId,Medium,App can collect device identifiers
+Dynamic Code,loadClass,High,App can load code dynamically (could bypass security)
+Network,HttpURLConnection,Low,App uses network connections
+Network,Socket,Low,App uses network connections
+Network,createConnection,Low,App uses network connections
+Crypto,Cipher,Low,App uses cryptography (may be for legitimate security)
+Crypto,Crypto,Low,App uses cryptography (may be for legitimate security)
+Crypto,encrypt,Low,App uses cryptography (may be for legitimate security)
+Crypto,decrypt,Low,App uses cryptography (may be for legitimate security)

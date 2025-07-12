@@ -1,0 +1,3 @@
+category,pattern,risk,description
+Location,LocationManager,Medium,App can track location
+Dynamic Code,loadClass,High,App can load code dynamically (could bypass security)

@@ -1,0 +1,69 @@
+<!-- templates/upload_photo.html -->
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row justify-content-center my-4">
+    <div class="col-md-10 col-lg-8">
+        <div class="card border-0 shadow">
+            <div class="card-header d-flex align-items-center">
+                <h4 class="mb-0"><i class="fas fa-camera me-2"></i>Upload Your Photo</h4>
+            </div>
+            <div class="card-body p-4">
+                <div class="row">
+                    <div class="col-lg-6 mb-4 mb-lg-0">
+                        <form action="{{ url_for('upload_photo') }}" method="post" enctype="multipart/form-data" class="h-100 d-flex flex-column">
+                            <div class="mb-4">
+                                <label for="user_photo" class="form-label fw-bold">Choose a photo:</label>
+                                <input class="form-control" type="file" id="user_photo" name="user_photo" accept=".jpg,.jpeg,.png" required>
+                                <div class="form-text text-muted">Supported formats: JPG, JPEG, PNG</div>
+                            </div>
+                            
+                            <div class="d-grid gap-2 mt-auto">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-upload me-2"></i>Upload & Continue
+                                </button>
+                                <a href="{{ url_for('dressing_room') }}" class="btn btn-outline-secondary">
+                                    <i class="fas fa-user me-2"></i>Use Default Model
+                                </a>
+                            </div>
+                        </form>
+                    </div>
+                    
+                    <div class="col-lg-6">
+                        <div class="tips-container h-100">
+                            <h5 class="fw-bold mb-3"><i class="fas fa-lightbulb me-2 text-warning"></i>Tips for Best Results</h5>
+                            <ul class="mb-0">
+                                <li class="mb-2">Use a photo with a plain, light-colored background</li>
+                                <li class="mb-2">Make sure your full body is visible in the frame</li>
+                                <li class="mb-2">Stand in a neutral pose facing the camera</li>
+                                <li class="mb-2">Wear fitted, plain clothing for more accurate fitting</li>
+                                <li>Ensure good lighting for best quality results</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="card mt-4 border-0 shadow">
+            <div class="card-body p-4">
+                <div class="d-flex align-items-start">
+                    <div class="me-3 text-success">
+                        <i class="fas fa-shield-alt fa-2x"></i>
+                    </div>
+                    <div>
+                        <h5 class="fw-bold mb-2">Privacy Assurance</h5>
+                        <p class="mb-0">Your photos are processed securely and are never shared with third parties. They are stored only for the duration of your session and can be deleted at any time.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="text-center mt-4">
+            <a href="{{ url_for('index') }}" class="btn btn-link">
+                <i class="fas fa-arrow-left me-2"></i>Back to Home
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}

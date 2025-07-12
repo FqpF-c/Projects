@@ -1,0 +1,13 @@
+# Library Management System Requirements
+
+# Required Packages
+pandas
+tkcalendar==1.6.1
+openpyxl==3.1.2
+matplotlib==3.7.1
+pillow==9.5.0
+numpy==1.24.3
+
+# Installation Instructions
+# Install all required packages using:
+# pip install -r requirements.txt

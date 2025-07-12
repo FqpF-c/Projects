@@ -1,0 +1,14 @@
+category,pattern,risk,description
+Location,getLastKnownLocation,Medium,App can track location
+Location,requestLocationUpdates,Medium,App can track location
+Location,LocationManager,Medium,App can track location
+Device ID,getDeviceId,Medium,App can collect device identifiers
+Device ID,IMEI,Medium,App can collect device identifiers
+Dynamic Code,PathClassLoader,High,App can load code dynamically (could bypass security)
+Dynamic Code,loadClass,High,App can load code dynamically (could bypass security)
+Network,HttpURLConnection,Low,App uses network connections
+Network,Socket,Low,App uses network connections
+Crypto,Cipher,Low,App uses cryptography (may be for legitimate security)
+Crypto,Crypto,Low,App uses cryptography (may be for legitimate security)
+Crypto,encrypt,Low,App uses cryptography (may be for legitimate security)
+Crypto,decrypt,Low,App uses cryptography (may be for legitimate security)

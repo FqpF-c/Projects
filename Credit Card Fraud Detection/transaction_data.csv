@@ -1,0 +1,1001 @@
+Amount,Category,DayType,TimeOfDay,Location,MerchantType,PrevActivity,FrequencyLevel,IsUnusual
+66.75388376312085,Online Shopping,Weekend,Evening,Different State,Restaurant,Medium,Frequent,0
+10.747898884252798,Groceries,Weekend,Afternoon,Nearby City,Gas Station,Low,Frequent,0
+10.987644736561435,Groceries,Weekday,Morning,Local,Gas Station,High,Occasional,0
+39.7663378620729,Utilities,Weekday,Morning,Online,Service Provider,Medium,Frequent,0
+156.92186489323,Gas,Weekday,Afternoon,Local,Restaurant,Medium,Occasional,0
+9.292688884991769,Restaurants,Holiday,Morning,Local,Retail Store,Low,Occasional,0
+184.22320383710215,Groceries,Weekday,Afternoon,Nearby City,ATM,Medium,Frequent,0
+10.417732008787667,Utilities,Weekday,Evening,Nearby City,Supermarket,Low,Frequent,0
+31.094896966322107,Online Shopping,Weekend,Evening,Online,Online Shop,Medium,Frequent,0
+51.87252538417648,Utilities,Weekday,Morning,Nearby City,Service Provider,Low,Occasional,0
+72.34448090274503,Gas,Weekday,Evening,Nearby City,Restaurant,Medium,Frequent,0
+86.48573116200689,Groceries,Weekend,Evening,Nearby City,Retail Store,Low,Occasional,0
+12.376697358659191,Utilities,Holiday,Evening,Local,Retail Store,Low,Occasional,0
+43.75254767148783,Groceries,Weekend,Evening,Nearby City,Gas Station,Low,Occasional,0
+66.59225060451442,Gas,Weekend,Afternoon,Nearby City,Service Provider,Medium,Frequent,0
+74.92739354978976,Utilities,Weekday,Afternoon,Local,Restaurant,Medium,Frequent,0
+25.53729909712167,Utilities,Weekend,Evening,Local,Retail Store,Low,Occasional,0
+56.857101645001116,Groceries,Weekday,Evening,Online,Restaurant,Medium,Frequent,0
+59.733380419053134,Online Shopping,Weekday,Morning,Local,Service Provider,High,Occasional,0
+171.99546245067248,Groceries,Weekday,Afternoon,Different State,Online Shop,Medium,Frequent,0
+0.1,Utilities,Weekday,Afternoon,Online,Restaurant,Medium,Frequent,0
+12.554505650050984,Gas,Weekday,Morning,Local,Restaurant,High,Occasional,0
+60.32823909108254,Restaurants,Holiday,Evening,Local,Restaurant,Medium,Frequent,0
+14.831166916527799,Gas,Weekday,Evening,Online,Retail Store,Low,Occasional,0
+13.761294985472297,Groceries,Weekday,Late Night,Local,Supermarket,High,Occasional,0
+281.7322148338254,Utilities,Weekend,Evening,Local,Online Shop,High,Occasional,0
+65.7515772163833,Utilities,Holiday,Afternoon,Nearby City,Online Shop,Medium,Occasional,0
+173.9409029479484,Groceries,Weekday,Evening,Local,Online Shop,High,Rare,0
+33.396031676082416,Utilities,Weekday,Afternoon,Local,Service Provider,Medium,Occasional,0
+4.492117871027959,Restaurants,Weekday,Afternoon,Online,Gas Station,Low,Occasional,0
+45.82487666425072,Utilities,Weekend,Evening,Local,Supermarket,Low,Occasional,0
+33.732356065314576,Restaurants,Weekday,Morning,Local,Retail Store,Medium,Frequent,0
+58.709890441231884,Gas,Weekend,Afternoon,Local,Restaurant,Medium,Frequent,0
+247.9166722470241,Restaurants,Weekend,Morning,Local,Gas Station,Medium,Frequent,0
+179.24745837479873,Gas,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+50.20377567832316,Online Shopping,Weekend,Morning,International,Retail Store,Medium,Frequent,0
+154.78137103139449,Restaurants,Weekday,Morning,Nearby City,Retail Store,Medium,Occasional,0
+3.061994350007068,Gas,Weekend,Evening,Different State,Retail Store,Low,Occasional,0
+219.46286227335702,Restaurants,Weekday,Afternoon,Local,Online Shop,Medium,Frequent,0
+25.743554389385935,Groceries,Holiday,Afternoon,Different State,Retail Store,Medium,Occasional,0
+32.52653325418615,Groceries,Weekday,Afternoon,Online,ATM,Medium,Occasional,0
+88.00833700600913,Online Shopping,Weekday,Morning,Local,Service Provider,Medium,Rare,0
+49.39112720187673,Groceries,Weekday,Evening,Online,Restaurant,Medium,Occasional,0
+148.51772541162472,Groceries,Weekday,Afternoon,Online,Retail Store,Medium,Rare,0
+52.397973601230674,Online Shopping,Weekday,Afternoon,Nearby City,Gas Station,High,Occasional,0
+57.30242996001801,Online Shopping,Weekday,Morning,Online,Restaurant,Medium,Occasional,0
+1609.2306551067363,Restaurants,Holiday,Late Night,Different State,Online Shop,Medium,Rare,1
+14.073484851605869,Online Shopping,Weekday,Morning,Online,Online Shop,Low,Occasional,0
+71.37783565836112,Groceries,Weekday,Evening,Local,Restaurant,Medium,Frequent,0
+335.01481887863986,Online Shopping,Weekday,Afternoon,Online,Supermarket,Medium,Frequent,0
+15.716821859450572,Gas,Weekday,Morning,Online,Gas Station,Low,Rare,0
+12.950190899373318,Groceries,Weekday,Late Night,Local,Restaurant,Medium,Occasional,0
+2.6732127711599993,Gas,Weekday,Morning,Local,Restaurant,Low,Rare,0
+278.0801209198495,Utilities,Weekday,Afternoon,Different State,Supermarket,High,Frequent,0
+176.56122806309003,Online Shopping,Weekend,Morning,Online,Restaurant,Medium,Frequent,0
+10.103401323078298,Restaurants,Weekday,Afternoon,Local,Online Shop,Medium,Occasional,0
+9.961641139697196,Groceries,Weekday,Evening,Online,Retail Store,Medium,Frequent,0
+36.16651323137122,Restaurants,Weekday,Afternoon,Nearby City,Retail Store,Medium,Rare,0
+130.33234701898368,Restaurants,Weekend,Afternoon,Local,Restaurant,Low,Occasional,0
+11.652382650429553,Groceries,Weekday,Afternoon,Online,Supermarket,Medium,Occasional,0
+180.9882535432992,Restaurants,Weekend,Afternoon,Local,Online Shop,High,Occasional,0
+67.71608958000752,Gas,Weekday,Evening,Local,Restaurant,Low,Frequent,0
+27.75949290235627,Gas,Weekday,Evening,Online,Retail Store,Medium,Occasional,0
+58.25204942825376,Utilities,Weekday,Afternoon,Different State,Online Shop,Medium,Occasional,0
+60.88168207194838,Gas,Weekday,Evening,Local,Restaurant,Medium,Rare,0
+32.19892181268726,Gas,Weekday,Evening,Nearby City,Supermarket,Medium,Rare,0
+3.8486242386911815,Online Shopping,Weekday,Afternoon,Local,Gas Station,Low,Occasional,0
+7.520900881206902,Restaurants,Weekday,Evening,Online,Restaurant,Medium,Rare,0
+33.4952506941499,Restaurants,Weekday,Evening,Nearby City,Restaurant,High,Frequent,0
+7.714239829905741,Gas,Weekday,Afternoon,Nearby City,Restaurant,Low,Frequent,0
+12.388202374262063,Groceries,Weekday,Late Night,Online,Retail Store,Medium,Occasional,0
+62.349265879143175,Utilities,Weekend,Afternoon,Local,Service Provider,Medium,Frequent,0
+12.437168213821248,Groceries,Weekend,Morning,Local,Retail Store,Medium,Occasional,0
+13.445500622762992,Groceries,Weekday,Evening,Online,Restaurant,Medium,Occasional,0
+265.00678206150235,Groceries,Weekday,Evening,Local,Retail Store,High,Frequent,0
+30.618711826209385,Restaurants,Weekday,Morning,Local,Gas Station,High,Occasional,0
+90.44642050478603,Online Shopping,Weekend,Evening,Online,Gas Station,Medium,Rare,0
+41.9401039235897,Gas,Weekday,Afternoon,Local,Retail Store,Medium,Frequent,0
+166.52803935566396,Restaurants,Weekday,Evening,Local,Restaurant,High,Occasional,0
+15.336655302424557,Groceries,Weekend,Morning,Local,Gas Station,Low,Frequent,0
+40.47421451203822,Online Shopping,Weekday,Evening,Different State,ATM,Medium,Occasional,0
+68.64202795326065,Utilities,Weekday,Morning,Nearby City,Gas Station,Low,Occasional,0
+188.54770575072757,Utilities,Weekend,Afternoon,Online,Restaurant,Medium,Frequent,0
+287.9364681103963,Restaurants,Weekday,Afternoon,Online,Online Shop,Medium,Occasional,0
+11.471202908374188,Utilities,Weekday,Morning,Local,Retail Store,Low,Frequent,0
+30.576166883129922,Groceries,Weekday,Afternoon,Different State,Restaurant,Low,Frequent,0
+203.42766369332992,Restaurants,Holiday,Evening,Online,Service Provider,High,Frequent,0
+49.95287384688912,Utilities,Weekday,Morning,Local,Restaurant,Low,Rare,0
+57.668117362625196,Utilities,Weekday,Afternoon,Local,Restaurant,Low,Frequent,0
+277.63020555652383,Online Shopping,Weekend,Afternoon,Online,Service Provider,High,Occasional,0
+278.98119097742403,Utilities,Weekend,Evening,Online,Gas Station,Low,Occasional,0
+111.82922432967499,Groceries,Weekday,Afternoon,Online,Online Shop,High,Rare,0
+244.137036015025,Utilities,Holiday,Afternoon,Local,Retail Store,High,Rare,0
+3.3454462089125867,Gas,Weekday,Morning,Different State,Gas Station,Medium,Frequent,0
+244.82176649322733,Groceries,Weekday,Afternoon,Nearby City,Restaurant,High,Rare,0
+11.93053251177995,Utilities,Weekday,Morning,Nearby City,Restaurant,Medium,Occasional,0
+5.7554137759313555,Gas,Weekday,Morning,Local,Gas Station,Medium,Frequent,0
+39.78971349329896,Online Shopping,Weekday,Morning,Local,Gas Station,High,Occasional,0
+258.8876046134382,Online Shopping,Weekday,Evening,Online,Restaurant,Low,Frequent,0
+60.39576172039551,Utilities,Weekday,Afternoon,Online,Retail Store,Medium,Rare,0
+267.58703433136185,Utilities,Weekday,Evening,Local,Service Provider,High,Occasional,0
+49.30406977818861,Online Shopping,Weekend,Evening,Local,Retail Store,Medium,Occasional,0
+34.807668383065106,Utilities,Weekday,Afternoon,Local,Retail Store,Medium,Frequent,0
+14.331856790191758,Groceries,Weekday,Morning,Online,Retail Store,Low,Occasional,0
+61.62812994923323,Groceries,Weekday,Evening,Local,Supermarket,Low,Occasional,0
+2.170486833271709,Groceries,Weekday,Morning,Online,Online Shop,High,Frequent,0
+78.98409241017457,Restaurants,Weekday,Afternoon,Local,Retail Store,Medium,Rare,0
+106.7182196482215,Groceries,Weekend,Late Night,Local,Online Shop,Medium,Rare,0
+150.6381671175256,Groceries,Weekday,Morning,Local,Retail Store,Medium,Rare,0
+56.58769487250436,Gas,Weekend,Evening,Local,Gas Station,High,Rare,0
+226.14980469741343,Online Shopping,Weekday,Afternoon,Nearby City,Supermarket,Medium,Occasional,0
+90.22019640742202,Gas,Weekend,Evening,Local,Retail Store,Medium,Occasional,0
+6.288688114018185,Online Shopping,Weekday,Afternoon,Online,Retail Store,Medium,Occasional,0
+8.604684964893995,Utilities,Weekday,Evening,Nearby City,Retail Store,Medium,Occasional,0
+79.42547546507224,Utilities,Weekday,Morning,Online,Restaurant,High,Rare,0
+311.93999385298065,Utilities,Weekday,Morning,Local,Retail Store,Medium,Frequent,0
+0.5547349524722023,Restaurants,Weekday,Evening,Nearby City,Gas Station,Low,Frequent,0
+7.735883971426992,Online Shopping,Weekday,Evening,Nearby City,Gas Station,Medium,Frequent,0
+67.15744584955021,Online Shopping,Weekday,Afternoon,Different State,Supermarket,High,Frequent,0
+19.384557840028705,Utilities,Weekday,Evening,Nearby City,Supermarket,Medium,Frequent,0
+51.68091335767678,Groceries,Weekend,Afternoon,Nearby City,Gas Station,Medium,Frequent,0
+57.19779415049301,Groceries,Weekend,Late Night,Online,Service Provider,Medium,Occasional,0
+65.46997977793822,Utilities,Weekday,Afternoon,Online,Retail Store,Medium,Occasional,0
+183.19991764681123,Gas,Weekday,Morning,Online,Restaurant,Medium,Occasional,0
+34.22833257935722,Utilities,Weekday,Morning,Online,Retail Store,Medium,Frequent,0
+12.946697862687145,Restaurants,Weekend,Morning,Online,Service Provider,Medium,Occasional,0
+7.4369915797168265,Utilities,Weekday,Late Night,Nearby City,Restaurant,Medium,Occasional,0
+53.943116862542254,Utilities,Weekday,Morning,Local,Gas Station,Low,Occasional,0
+259.0223002202629,Gas,Weekday,Morning,Online,Restaurant,Medium,Frequent,0
+53.03228383911513,Utilities,Weekday,Evening,Online,Service Provider,High,Rare,0
+56.92639157140117,Restaurants,Weekend,Evening,Online,Restaurant,Medium,Occasional,0
+238.42252952550183,Gas,Weekend,Afternoon,Local,Retail Store,Medium,Rare,0
+44.23477254345615,Online Shopping,Weekday,Morning,Nearby City,Gas Station,Low,Occasional,0
+3327.163074222198,Luxury Goods,Weekday,Late Night,Online,Retail Store,Medium,Rare,1
+58.24472446504981,Restaurants,Weekend,Afternoon,Online,Retail Store,Medium,Frequent,0
+187.8439051354773,Groceries,Weekend,Morning,Different State,Service Provider,Medium,Occasional,0
+102.8589218251829,Groceries,Weekday,Evening,Online,Supermarket,Low,Occasional,0
+15.904174439004201,Utilities,Weekday,Afternoon,Local,Retail Store,Medium,Frequent,0
+0.1642288755294512,Utilities,Weekday,Morning,Local,Gas Station,Medium,Occasional,0
+165.65454675968704,Groceries,Holiday,Evening,Nearby City,Restaurant,High,Occasional,0
+242.65815042845944,Utilities,Weekday,Afternoon,Different State,Supermarket,Medium,Occasional,0
+8.936752245890482,Groceries,Weekday,Afternoon,Local,Retail Store,High,Occasional,0
+14.233507147363682,Restaurants,Weekday,Morning,Online,Retail Store,Medium,Frequent,0
+58.80157485194135,Gas,Weekday,Morning,Local,Online Shop,Medium,Occasional,0
+14.270998518948442,Gas,Weekend,Evening,Online,Restaurant,Medium,Rare,0
+56.93871748100648,Restaurants,Weekday,Afternoon,Different State,Supermarket,Medium,Occasional,0
+14.382754402765809,Online Shopping,Weekday,Afternoon,Local,Supermarket,Medium,Occasional,0
+12.59974603984666,Utilities,Weekday,Afternoon,Online,Online Shop,Medium,Occasional,0
+35.874685254892725,Utilities,Weekday,Afternoon,Local,Retail Store,High,Rare,0
+73.73328009123925,Gas,Weekday,Afternoon,Online,Gas Station,Medium,Rare,0
+6.261917313477015,Restaurants,Weekday,Afternoon,Local,Online Shop,Low,Frequent,0
+58.722385404380375,Groceries,Holiday,Evening,Online,ATM,Low,Frequent,0
+34.54843941699201,Online Shopping,Weekend,Evening,Local,Restaurant,Medium,Frequent,0
+7.102709652625315,Groceries,Weekday,Morning,Online,Restaurant,Medium,Frequent,0
+3.437935982974775,Gas,Weekday,Afternoon,Local,Retail Store,Medium,Frequent,0
+47.91649377120653,Groceries,Weekday,Evening,Local,Restaurant,Medium,Frequent,0
+10.491961640805892,Restaurants,Weekday,Afternoon,Different State,Retail Store,Medium,Frequent,0
+46.12434096755284,Groceries,Weekday,Late Night,Nearby City,Online Shop,Medium,Occasional,0
+29.488396028791833,Utilities,Weekday,Evening,Local,Supermarket,High,Frequent,0
+15.149441616014435,Online Shopping,Weekday,Morning,Nearby City,Supermarket,Low,Rare,0
+212.48480716925508,Utilities,Weekend,Late Night,Online,Service Provider,Medium,Frequent,0
+60.65373607583142,Online Shopping,Weekday,Evening,Nearby City,Gas Station,Medium,Occasional,0
+19.23345422508813,Restaurants,Weekday,Afternoon,Nearby City,Service Provider,Low,Occasional,0
+0.1,Utilities,Weekend,Afternoon,Local,Online Shop,Low,Frequent,0
+35.72092939976963,Utilities,Weekday,Morning,Local,Supermarket,Medium,Occasional,0
+11.563049478109187,Gas,Weekday,Afternoon,Online,Supermarket,Low,Frequent,0
+10.741229268071951,Gas,Weekday,Late Night,Online,Restaurant,High,Rare,0
+65.68337118316364,Groceries,Weekday,Evening,Local,Supermarket,Medium,Occasional,0
+13.799869078278407,Utilities,Weekday,Afternoon,Nearby City,Restaurant,Medium,Frequent,0
+17.557201200010528,Restaurants,Holiday,Afternoon,Online,Retail Store,Medium,Occasional,0
+6.401670828523078,Utilities,Weekday,Late Night,Online,Online Shop,Medium,Rare,0
+102.31851550758248,Groceries,Weekday,Evening,Nearby City,Restaurant,Medium,Rare,0
+15.53567982584999,Online Shopping,Weekday,Evening,Different State,Retail Store,Low,Occasional,0
+55.99978817847655,Groceries,Holiday,Afternoon,Online,Online Shop,Low,Frequent,0
+58.59883246551563,Utilities,Weekend,Morning,Nearby City,Retail Store,Medium,Frequent,0
+31.45199081954562,Online Shopping,Weekday,Afternoon,Online,ATM,Medium,Occasional,0
+4.30586901833539,Utilities,Weekday,Afternoon,Online,Restaurant,Medium,Frequent,0
+64.30377026167164,Utilities,Weekday,Afternoon,Nearby City,Supermarket,Medium,Occasional,0
+185.1402740943338,Restaurants,Weekday,Afternoon,Local,Restaurant,Medium,Rare,0
+216.93465709425212,Restaurants,Weekend,Afternoon,Nearby City,Supermarket,Low,Rare,0
+1119.5755550995698,Entertainment,Holiday,Late Night,International,Online Shop,Low,Rare,1
+60.690784098349496,Online Shopping,Weekday,Afternoon,Different State,Supermarket,Medium,Frequent,0
+2.6903200877011804,Restaurants,Weekend,Evening,Online,Restaurant,Medium,Rare,0
+47.320884459490074,Online Shopping,Weekday,Morning,Online,Retail Store,Medium,Occasional,0
+0.9897307531894466,Restaurants,Weekday,Evening,Different State,ATM,Low,Occasional,0
+9.94521983458828,Utilities,Weekday,Evening,Nearby City,ATM,High,Rare,0
+4.520331273295795,Restaurants,Weekend,Evening,Local,Restaurant,High,Rare,0
+11.543105768181277,Gas,Weekday,Afternoon,Local,Online Shop,Medium,Occasional,0
+178.23825763012903,Online Shopping,Weekday,Evening,Online,Gas Station,Low,Occasional,0
+40.11523044839298,Utilities,Weekend,Afternoon,Local,Gas Station,Low,Frequent,0
+7.087760036384572,Online Shopping,Weekday,Morning,Local,Restaurant,Medium,Rare,0
+7.632366302065449,Restaurants,Holiday,Evening,Local,Retail Store,Medium,Occasional,0
+18.640237220827554,Online Shopping,Weekday,Evening,Local,Online Shop,High,Occasional,0
+0.1,Restaurants,Weekend,Afternoon,Different State,Restaurant,Low,Frequent,0
+997.7105975890671,Online Shopping,Holiday,Late Night,Online,Online Shop,Low,Rare,1
+12.271481345268262,Utilities,Weekday,Afternoon,Local,Restaurant,Medium,Frequent,0
+63.4205454988188,Online Shopping,Weekday,Evening,Local,Online Shop,Low,Rare,0
+167.5818540784258,Utilities,Weekend,Evening,Local,Retail Store,High,Occasional,0
+129.82645300564684,Groceries,Weekday,Afternoon,Local,Supermarket,Medium,Occasional,0
+56.4192924839044,Restaurants,Weekday,Late Night,Online,Restaurant,Medium,Occasional,0
+61.17252717646781,Gas,Weekday,Evening,International,Gas Station,Medium,Frequent,0
+14.350283269372149,Online Shopping,Weekend,Morning,Nearby City,Online Shop,High,Frequent,0
+180.14083994279233,Groceries,Weekday,Afternoon,Local,Retail Store,Medium,Occasional,0
+6.848526909039869,Gas,Weekday,Evening,Different State,Gas Station,Medium,Occasional,0
+53.03088648441866,Utilities,Weekday,Evening,Online,Gas Station,Medium,Occasional,0
+176.94460638383177,Utilities,Weekday,Evening,Nearby City,Gas Station,Low,Frequent,0
+11.12840422019916,Gas,Weekday,Afternoon,Local,Online Shop,Low,Frequent,0
+50.930809682160266,Restaurants,Weekend,Afternoon,Different State,Supermarket,Medium,Rare,0
+197.84233552262293,Online Shopping,Weekend,Morning,Local,Restaurant,Medium,Occasional,0
+14.596785774324697,Utilities,Weekday,Afternoon,Different State,Restaurant,Medium,Occasional,0
+53.72367232675107,Online Shopping,Weekday,Morning,Local,ATM,Low,Frequent,0
+232.49325292385487,Gas,Weekday,Evening,Nearby City,Online Shop,Low,Occasional,0
+15.446351752182006,Online Shopping,Weekend,Evening,Local,Restaurant,Medium,Frequent,0
+1066.5151579221624,Electronics,Weekday,Late Night,Online,Online Shop,Low,Rare,1
+10.350211134909145,Restaurants,Weekday,Afternoon,Nearby City,Gas Station,Medium,Rare,0
+8.686471560191478,Online Shopping,Weekend,Morning,Online,Restaurant,Medium,Frequent,0
+13.402416940377318,Online Shopping,Weekday,Evening,Nearby City,ATM,High,Frequent,0
+15.943052237985516,Gas,Weekday,Morning,Local,Supermarket,High,Occasional,0
+251.4619675462702,Online Shopping,Holiday,Afternoon,Online,Service Provider,Medium,Frequent,0
+70.00825217915441,Restaurants,Weekday,Evening,Online,Gas Station,High,Occasional,0
+3.357696304828366,Utilities,Weekday,Morning,Nearby City,Online Shop,Medium,Rare,0
+0.1,Gas,Weekday,Evening,Different State,Supermarket,Medium,Occasional,0
+41.110548320010906,Gas,Weekend,Evening,Local,Online Shop,Medium,Frequent,0
+35.385808157010445,Groceries,Weekday,Evening,Local,Service Provider,Medium,Frequent,0
+12.841670231969708,Gas,Weekday,Late Night,Different State,Gas Station,High,Rare,0
+65.86286816186943,Gas,Weekday,Evening,Nearby City,Gas Station,Medium,Rare,0
+46.11709434455824,Online Shopping,Weekday,Evening,Different State,Retail Store,Low,Rare,0
+34.22883989587813,Gas,Weekday,Evening,Online,Gas Station,Medium,Occasional,0
+44.38161936750693,Online Shopping,Weekday,Afternoon,Online,Online Shop,Medium,Occasional,0
+54.46183552443596,Online Shopping,Weekday,Afternoon,Online,Gas Station,Medium,Frequent,0
+13.988115067125579,Groceries,Weekend,Afternoon,Local,Supermarket,High,Frequent,0
+47.19883103595354,Groceries,Weekday,Morning,Nearby City,Restaurant,Medium,Frequent,0
+35.15507976305765,Online Shopping,Weekday,Afternoon,Nearby City,Retail Store,Medium,Occasional,0
+13.493686918852863,Restaurants,Weekday,Afternoon,Local,Gas Station,Medium,Occasional,0
+39.62067010287118,Gas,Weekday,Evening,Local,Gas Station,Medium,Rare,0
+185.00187395974527,Groceries,Weekday,Afternoon,Nearby City,Restaurant,Medium,Occasional,0
+12.858700876225937,Gas,Weekday,Evening,Local,Retail Store,High,Frequent,0
+248.67962521720654,Restaurants,Weekday,Afternoon,Online,Retail Store,Medium,Rare,0
+7.6040763768115385,Utilities,Weekend,Evening,Local,Gas Station,High,Frequent,0
+73.85861770609124,Groceries,Weekend,Evening,Nearby City,Supermarket,Low,Frequent,0
+145.28461752327084,Online Shopping,Holiday,Evening,Local,Online Shop,High,Occasional,0
+54.76921092059756,Online Shopping,Holiday,Afternoon,Online,Supermarket,Medium,Rare,0
+220.37548328596603,Groceries,Weekday,Morning,Nearby City,Restaurant,Medium,Frequent,0
+63.860995398291344,Utilities,Weekend,Evening,Nearby City,Restaurant,Medium,Occasional,0
+200.7658431152573,Groceries,Weekday,Afternoon,Local,Supermarket,High,Occasional,0
+59.945210122806024,Gas,Holiday,Late Night,Local,ATM,Low,Frequent,0
+17.026968675330473,Utilities,Weekday,Morning,Local,Retail Store,Low,Rare,0
+9.075978554958368,Utilities,Weekday,Evening,Online,Supermarket,Medium,Occasional,0
+43.08002125196941,Restaurants,Weekday,Evening,Online,Gas Station,Medium,Occasional,0
+94.84365770496497,Online Shopping,Holiday,Morning,Online,Supermarket,Medium,Occasional,0
+63.77748202911634,Groceries,Weekday,Morning,Local,Gas Station,High,Occasional,0
+11.473775736939793,Groceries,Weekday,Morning,Online,Supermarket,Medium,Occasional,0
+13.900665359769715,Online Shopping,Weekend,Afternoon,Different State,Supermarket,Medium,Occasional,0
+185.93559771530897,Online Shopping,Weekday,Evening,Local,Restaurant,Medium,Rare,0
+23.544298063895283,Restaurants,Weekday,Evening,Online,Service Provider,Medium,Occasional,0
+6.682094382414896,Utilities,Weekend,Morning,Local,Restaurant,Medium,Occasional,0
+286.6124907475928,Groceries,Weekend,Evening,Nearby City,Gas Station,Medium,Occasional,0
+23.57099248733977,Restaurants,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+14.863150158903634,Groceries,Weekday,Evening,Local,Retail Store,High,Occasional,0
+8.148441410831918,Utilities,Weekend,Morning,Nearby City,Service Provider,Medium,Occasional,0
+33.99715178842585,Gas,Holiday,Afternoon,Local,Retail Store,High,Occasional,0
+0.1,Gas,Weekday,Evening,Different State,Restaurant,Low,Frequent,0
+3.74350227013725,Restaurants,Weekday,Morning,Local,Restaurant,High,Frequent,0
+48.505342617429754,Gas,Weekday,Evening,Local,Supermarket,Medium,Frequent,0
+38.63648971230306,Restaurants,Weekday,Evening,Local,Retail Store,Medium,Occasional,0
+18.727989005139097,Online Shopping,Weekday,Morning,Local,Online Shop,Medium,Frequent,0
+11.42800907149143,Groceries,Weekend,Afternoon,Online,Gas Station,High,Frequent,0
+13.077653363976722,Online Shopping,Holiday,Morning,Nearby City,Restaurant,High,Frequent,0
+215.09537570759636,Gas,Holiday,Afternoon,Local,Retail Store,Low,Rare,0
+19.405370170390583,Utilities,Weekday,Afternoon,Online,Retail Store,Medium,Rare,0
+23.792601824123103,Gas,Weekend,Afternoon,Online,Supermarket,Medium,Frequent,0
+0.1,Groceries,Weekday,Afternoon,Different State,Restaurant,Medium,Occasional,0
+44.15052824144014,Utilities,Weekday,Evening,Different State,Retail Store,Medium,Frequent,0
+180.93824042734045,Restaurants,Weekend,Evening,Local,Restaurant,Medium,Occasional,0
+10.137298109249638,Restaurants,Weekday,Afternoon,Online,Gas Station,Medium,Occasional,0
+5.673687515316307,Online Shopping,Weekday,Evening,Different State,Supermarket,Medium,Rare,0
+39.05186650932266,Restaurants,Weekday,Afternoon,Nearby City,Gas Station,High,Rare,0
+15.186177411222335,Groceries,Holiday,Evening,Local,Supermarket,High,Occasional,0
+16.68754279154003,Groceries,Weekend,Afternoon,Online,Gas Station,Medium,Frequent,0
+9.194919937042364,Restaurants,Weekend,Evening,Nearby City,Supermarket,Medium,Occasional,0
+247.7708807390393,Groceries,Weekday,Morning,Local,Retail Store,Low,Occasional,0
+37.39034246454494,Online Shopping,Weekend,Evening,Nearby City,Restaurant,High,Occasional,0
+15.913168822860113,Gas,Weekday,Evening,Local,Retail Store,High,Occasional,0
+0.1,Restaurants,Weekday,Late Night,Local,Gas Station,Low,Occasional,0
+0.1,Utilities,Weekday,Evening,Different State,Retail Store,Medium,Frequent,0
+64.01909355954093,Utilities,Weekday,Morning,Nearby City,Supermarket,Medium,Occasional,0
+6.795180494951625,Groceries,Weekday,Late Night,Nearby City,Supermarket,Medium,Rare,0
+5.132689525474936,Utilities,Weekend,Late Night,Online,Retail Store,Low,Rare,0
+13.88916521639386,Utilities,Weekday,Evening,Different State,Service Provider,Medium,Frequent,0
+19.211323556961727,Groceries,Weekday,Morning,Local,Retail Store,Medium,Occasional,0
+386.11458694623246,Online Shopping,Weekday,Evening,Nearby City,Service Provider,Medium,Frequent,0
+3.3835551685981446,Utilities,Weekday,Morning,Local,Service Provider,Low,Frequent,0
+7.969254939061783,Gas,Weekday,Morning,Online,Retail Store,Low,Frequent,0
+51.07050636271122,Restaurants,Weekday,Afternoon,Nearby City,Retail Store,High,Frequent,0
+118.25600481454231,Groceries,Weekday,Afternoon,Online,Retail Store,Low,Occasional,0
+39.88355394636587,Utilities,Weekday,Morning,Online,Online Shop,Low,Occasional,0
+53.57811852204178,Utilities,Weekday,Morning,Online,Service Provider,High,Frequent,0
+42.331122246899156,Online Shopping,Weekday,Morning,Local,Retail Store,Low,Occasional,0
+11.553920756535234,Utilities,Weekday,Afternoon,Local,Restaurant,Medium,Occasional,0
+73.43493159168898,Utilities,Weekday,Afternoon,Nearby City,Retail Store,Medium,Occasional,0
+73.00602773499422,Restaurants,Weekend,Afternoon,Online,Gas Station,Medium,Rare,0
+132.6428034511739,Utilities,Weekday,Morning,International,ATM,Low,Frequent,0
+201.303056742083,Groceries,Weekend,Evening,Online,Retail Store,Medium,Occasional,0
+19.11223809209319,Online Shopping,Weekday,Evening,Local,Restaurant,High,Frequent,0
+256.18029522460523,Restaurants,Weekend,Morning,Nearby City,Supermarket,High,Frequent,0
+14.204059237223259,Utilities,Weekday,Afternoon,Online,Retail Store,High,Occasional,0
+51.34012430357314,Online Shopping,Weekend,Late Night,Local,Online Shop,High,Frequent,0
+17.59035936226322,Gas,Weekday,Afternoon,Local,Retail Store,High,Occasional,0
+177.301757976937,Gas,Weekday,Morning,Local,Retail Store,Medium,Occasional,0
+39.05888550464313,Online Shopping,Holiday,Afternoon,Local,Restaurant,Medium,Occasional,0
+210.756992597973,Online Shopping,Weekday,Afternoon,Local,Online Shop,Medium,Occasional,0
+115.7765562562692,Restaurants,Weekday,Afternoon,Local,Online Shop,Low,Occasional,0
+12.575762980658594,Groceries,Weekend,Afternoon,Online,Restaurant,Medium,Frequent,0
+145.83546767726537,Gas,Weekday,Evening,Online,Supermarket,Medium,Frequent,0
+7.577382421701751,Online Shopping,Weekend,Evening,Local,Retail Store,High,Occasional,0
+4.51122791799124,Utilities,Weekday,Afternoon,Online,Restaurant,Low,Occasional,0
+38.298160383798795,Online Shopping,Weekday,Morning,Local,Gas Station,Medium,Occasional,0
+96.65517052515284,Utilities,Weekend,Afternoon,Nearby City,Restaurant,High,Rare,0
+35.6405483889699,Gas,Weekday,Afternoon,Local,Supermarket,Medium,Rare,0
+47.72836521734214,Groceries,Weekend,Evening,Nearby City,Restaurant,High,Occasional,0
+156.17713286845697,Groceries,Weekday,Afternoon,Local,Retail Store,High,Occasional,0
+26.112162815806382,Online Shopping,Weekend,Afternoon,Local,Online Shop,High,Occasional,0
+5.317037503218073,Utilities,Weekday,Afternoon,Different State,Retail Store,Medium,Occasional,0
+12.840676274168969,Utilities,Weekday,Afternoon,Online,Restaurant,Low,Rare,0
+158.1844247129068,Gas,Weekday,Evening,Online,Restaurant,Medium,Occasional,0
+45.26613841465878,Online Shopping,Weekday,Afternoon,Online,ATM,Medium,Occasional,0
+9.254852672759588,Groceries,Weekday,Morning,Online,Online Shop,Medium,Occasional,0
+39.92598226870466,Online Shopping,Weekday,Afternoon,Nearby City,Restaurant,High,Frequent,0
+36.890889266863226,Restaurants,Weekday,Evening,Local,Restaurant,Medium,Occasional,0
+11.847125591798324,Groceries,Weekday,Morning,Online,Retail Store,Medium,Occasional,0
+23.72727533685001,Groceries,Weekday,Afternoon,Different State,Retail Store,Low,Rare,0
+47.40717012014179,Gas,Weekday,Morning,Nearby City,Service Provider,Low,Occasional,0
+49.200528349226566,Utilities,Weekday,Morning,Local,Service Provider,Medium,Occasional,0
+80.82342314923028,Gas,Weekday,Evening,Online,Online Shop,Medium,Frequent,0
+11.78185137819261,Utilities,Weekday,Afternoon,Local,Online Shop,Low,Occasional,0
+216.24628906008553,Utilities,Weekday,Late Night,Local,Restaurant,Low,Occasional,0
+66.3077943865072,Utilities,Weekday,Late Night,Different State,Retail Store,Medium,Frequent,0
+7.527524584120963,Groceries,Weekend,Afternoon,Nearby City,Retail Store,Medium,Occasional,0
+78.85113037639704,Restaurants,Weekday,Afternoon,Online,Restaurant,Medium,Frequent,0
+22.589069711099118,Restaurants,Weekday,Late Night,Local,Online Shop,High,Occasional,0
+13.119153858993188,Gas,Weekday,Evening,Online,ATM,Medium,Occasional,0
+4.783252256106173,Gas,Weekend,Evening,Online,Online Shop,High,Rare,0
+69.85322079135689,Restaurants,Weekday,Late Night,Local,Restaurant,Medium,Frequent,0
+40.24038749039288,Restaurants,Weekday,Evening,Local,Retail Store,Medium,Rare,0
+71.46931022998788,Utilities,Weekday,Morning,Online,Supermarket,Medium,Occasional,0
+45.30885546577986,Gas,Weekday,Evening,Online,Restaurant,High,Frequent,0
+16.357255581610133,Restaurants,Weekday,Evening,Online,Gas Station,Medium,Frequent,0
+10.055371513819708,Online Shopping,Weekday,Evening,Local,Restaurant,Medium,Frequent,0
+3.2330303150185493,Gas,Weekend,Evening,Online,Retail Store,Low,Frequent,0
+8.15707399667874,Restaurants,Holiday,Morning,Local,Restaurant,Medium,Frequent,0
+197.7746740469179,Gas,Holiday,Afternoon,Different State,Supermarket,Medium,Occasional,0
+14.021956655726088,Groceries,Weekend,Afternoon,Online,ATM,Medium,Occasional,0
+33.93446162278367,Utilities,Weekday,Afternoon,Online,Online Shop,Low,Occasional,0
+220.24982105874523,Restaurants,Weekday,Morning,Local,Supermarket,Low,Frequent,0
+18.954304430167554,Online Shopping,Weekend,Evening,Online,Retail Store,Medium,Rare,0
+255.72642929975805,Groceries,Weekday,Afternoon,International,Online Shop,Medium,Occasional,0
+12.225803871679881,Utilities,Weekday,Afternoon,Local,Supermarket,Medium,Occasional,0
+6.18450097098438,Groceries,Weekend,Afternoon,Online,Restaurant,Medium,Occasional,0
+17.542060398929486,Groceries,Weekday,Late Night,Local,Service Provider,High,Rare,0
+56.716454426918204,Utilities,Holiday,Afternoon,Online,Retail Store,Low,Frequent,0
+7.424508285010471,Gas,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+21.25450051861972,Restaurants,Weekday,Afternoon,Online,Gas Station,High,Rare,0
+14.7877270188832,Gas,Weekend,Afternoon,Local,Restaurant,Medium,Frequent,0
+51.06681814430437,Restaurants,Weekday,Morning,Online,Retail Store,Low,Occasional,0
+78.80610829414134,Online Shopping,Weekday,Evening,Nearby City,Restaurant,Medium,Frequent,0
+63.719522841160334,Restaurants,Weekday,Afternoon,Local,Online Shop,Medium,Occasional,0
+10.987125237071858,Online Shopping,Weekday,Afternoon,Local,Online Shop,Medium,Occasional,0
+79.60678743832153,Gas,Weekend,Afternoon,Local,Gas Station,Medium,Frequent,0
+64.32633174905186,Groceries,Weekday,Afternoon,Local,Restaurant,Medium,Frequent,0
+32.58343606761153,Gas,Weekday,Evening,Local,Gas Station,Low,Frequent,0
+278.8482368071409,Utilities,Holiday,Evening,Nearby City,Online Shop,Medium,Occasional,0
+9.64546236002133,Online Shopping,Weekday,Morning,Online,Restaurant,Low,Rare,0
+206.00817549468968,Groceries,Weekend,Evening,Online,Retail Store,Medium,Occasional,0
+59.34425477740444,Groceries,Weekend,Afternoon,Online,Restaurant,High,Occasional,0
+13.50143582760795,Restaurants,Weekend,Afternoon,Local,Gas Station,Medium,Rare,0
+201.7443553169453,Restaurants,Weekend,Evening,Nearby City,Retail Store,Medium,Frequent,0
+12.397454581178627,Online Shopping,Weekday,Evening,Online,ATM,Medium,Occasional,0
+2.057349866346705,Utilities,Weekday,Afternoon,Online,Retail Store,Medium,Rare,0
+0.1,Online Shopping,Weekday,Evening,Local,Restaurant,Medium,Occasional,0
+66.77355915164554,Restaurants,Weekday,Evening,Local,Retail Store,Medium,Rare,0
+14.337484778993526,Utilities,Weekday,Morning,Nearby City,Supermarket,Medium,Frequent,0
+26.85702485523338,Restaurants,Weekday,Evening,Local,Supermarket,High,Frequent,0
+3.8644343753455734,Groceries,Weekend,Evening,Online,Online Shop,High,Frequent,0
+29.711387827085627,Groceries,Weekday,Evening,Different State,Supermarket,High,Rare,0
+49.86067040632778,Utilities,Weekend,Evening,Local,Supermarket,Medium,Rare,0
+20.807450509926234,Restaurants,Weekday,Evening,Local,Supermarket,Low,Frequent,0
+3.7330071235633238,Online Shopping,Weekday,Afternoon,Online,Supermarket,High,Frequent,0
+46.696010282317324,Groceries,Weekend,Afternoon,Nearby City,Service Provider,Medium,Frequent,0
+170.33334721564017,Utilities,Weekday,Afternoon,Online,Retail Store,Medium,Occasional,0
+33.250883893236264,Gas,Weekend,Afternoon,Local,Gas Station,Medium,Occasional,0
+32.27359990752559,Groceries,Weekday,Afternoon,Local,Supermarket,Medium,Occasional,0
+83.67840412873984,Online Shopping,Holiday,Afternoon,Local,Supermarket,High,Occasional,0
+69.70314293473447,Online Shopping,Weekend,Afternoon,Local,Service Provider,High,Frequent,0
+26.59753138002417,Online Shopping,Weekday,Evening,Different State,Restaurant,High,Frequent,0
+58.897623349592195,Utilities,Weekend,Morning,Local,Retail Store,Medium,Occasional,0
+23.17671265162534,Restaurants,Weekday,Evening,Local,Online Shop,Low,Occasional,0
+73.8962656201283,Utilities,Weekday,Afternoon,Nearby City,Supermarket,Low,Occasional,0
+253.12598079442873,Online Shopping,Weekday,Afternoon,Online,Retail Store,High,Occasional,0
+53.63839830610919,Utilities,Weekend,Evening,Local,Restaurant,High,Frequent,0
+219.50170427676787,Restaurants,Weekday,Late Night,Local,Retail Store,High,Occasional,0
+13.458249159508593,Utilities,Weekday,Morning,Local,Supermarket,Low,Frequent,0
+59.690499876775654,Gas,Weekday,Morning,Local,Supermarket,Low,Occasional,0
+7.830887253088063,Utilities,Weekday,Evening,Online,Service Provider,Medium,Frequent,0
+18.158867496765225,Groceries,Weekday,Morning,Online,Retail Store,Low,Occasional,0
+196.28608557690706,Online Shopping,Weekday,Afternoon,Online,Supermarket,Low,Occasional,0
+43.22681490238682,Gas,Weekday,Evening,Online,Retail Store,Medium,Occasional,0
+48.46495211874609,Utilities,Weekday,Afternoon,Nearby City,Restaurant,Low,Rare,0
+155.14322007018475,Restaurants,Weekday,Morning,Online,Service Provider,High,Occasional,0
+4.120659935080994,Gas,Weekend,Afternoon,Nearby City,Gas Station,High,Occasional,0
+45.34141535425333,Gas,Weekday,Afternoon,Local,Retail Store,Medium,Rare,0
+5.068062899968723,Utilities,Holiday,Evening,Local,Retail Store,High,Frequent,0
+81.30976530551916,Online Shopping,Weekday,Morning,Local,Restaurant,Low,Occasional,0
+86.93859140962775,Utilities,Weekday,Afternoon,Local,Online Shop,Medium,Occasional,0
+7.764082003949262,Restaurants,Weekday,Evening,Local,Service Provider,Medium,Frequent,0
+71.46289554476218,Utilities,Holiday,Evening,Local,Gas Station,Low,Frequent,0
+6.743651940572205,Online Shopping,Weekday,Morning,Online,Gas Station,Low,Rare,0
+276.6615301615134,Utilities,Weekday,Afternoon,Local,Gas Station,Medium,Occasional,0
+256.1940257220939,Groceries,Weekday,Evening,Nearby City,Service Provider,Low,Occasional,0
+4.160619667941633,Groceries,Weekday,Morning,Nearby City,Retail Store,Medium,Occasional,0
+45.094648037633796,Online Shopping,Weekday,Morning,Online,Restaurant,Medium,Occasional,0
+28.05369157947252,Restaurants,Weekday,Morning,Nearby City,Supermarket,Medium,Frequent,0
+0.1,Restaurants,Weekday,Afternoon,Local,Gas Station,High,Occasional,0
+44.98718647296281,Online Shopping,Weekday,Evening,International,Retail Store,Low,Rare,0
+66.74290644288094,Groceries,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+4.2578944415982605,Groceries,Weekday,Afternoon,Local,Service Provider,High,Occasional,0
+49.316211359772396,Restaurants,Weekend,Afternoon,Nearby City,Retail Store,Medium,Rare,0
+51.97464764253406,Groceries,Weekday,Evening,Local,Online Shop,Medium,Frequent,0
+53.0155197559623,Online Shopping,Weekday,Evening,Online,Service Provider,Medium,Occasional,0
+34.88364884230668,Groceries,Weekend,Evening,Local,Restaurant,Medium,Occasional,0
+43.57101830113437,Utilities,Weekend,Afternoon,Nearby City,Gas Station,Medium,Occasional,0
+194.73238973850098,Online Shopping,Weekday,Afternoon,Local,Retail Store,High,Rare,0
+46.06670258546544,Gas,Weekday,Evening,Online,Supermarket,Medium,Occasional,0
+57.74247928612334,Gas,Weekday,Afternoon,Online,Retail Store,High,Frequent,0
+44.332160962500545,Groceries,Weekday,Afternoon,Different State,Supermarket,Medium,Occasional,0
+262.16215259743814,Restaurants,Weekday,Late Night,Online,Supermarket,Medium,Rare,0
+247.24364018548377,Online Shopping,Weekday,Morning,Different State,Supermarket,Medium,Occasional,0
+69.0727642914625,Groceries,Weekday,Evening,Online,Restaurant,Medium,Occasional,0
+39.95376722230576,Online Shopping,Weekday,Evening,Local,Gas Station,High,Occasional,0
+18.014363408978348,Gas,Weekday,Evening,Online,Supermarket,High,Frequent,0
+57.7538861487724,Restaurants,Holiday,Morning,Online,Gas Station,Medium,Occasional,0
+18.4428249249586,Gas,Weekday,Afternoon,Different State,Online Shop,Low,Occasional,0
+58.486331496479956,Groceries,Weekday,Evening,Local,Service Provider,Medium,Occasional,0
+7.47241245148141,Groceries,Weekday,Morning,Online,Supermarket,Medium,Occasional,0
+10.7489409691602,Restaurants,Weekend,Evening,Different State,Online Shop,High,Occasional,0
+58.033965018254534,Online Shopping,Weekday,Afternoon,Local,Supermarket,Medium,Frequent,0
+5.271312041115518,Gas,Weekend,Afternoon,Local,Gas Station,Medium,Frequent,0
+235.42191375582036,Restaurants,Weekend,Morning,Nearby City,Supermarket,High,Rare,0
+13.23543071985516,Utilities,Weekday,Morning,Local,Supermarket,Low,Frequent,0
+5.363073110425786,Restaurants,Weekend,Morning,Nearby City,Supermarket,Medium,Occasional,0
+9.262532242955414,Gas,Weekday,Evening,Online,Restaurant,Medium,Frequent,0
+9.737760775144986,Utilities,Weekday,Evening,Different State,Supermarket,Medium,Frequent,0
+9.878419469494988,Restaurants,Weekend,Afternoon,Online,Restaurant,Low,Frequent,0
+45.050387383760416,Restaurants,Weekend,Evening,Online,ATM,Low,Occasional,0
+10.502079627153707,Utilities,Weekend,Morning,Local,Retail Store,Low,Occasional,0
+15.201603949062557,Restaurants,Weekday,Evening,Local,Service Provider,High,Occasional,0
+81.7575514404686,Utilities,Weekday,Evening,Online,Gas Station,Medium,Occasional,0
+62.47229484177533,Utilities,Weekday,Evening,Local,Supermarket,High,Occasional,0
+77.1840070662287,Groceries,Weekday,Afternoon,Local,ATM,Low,Occasional,0
+179.1986119667566,Groceries,Weekday,Evening,Different State,Restaurant,High,Occasional,0
+243.33340569213195,Restaurants,Weekday,Afternoon,Online,Restaurant,Medium,Occasional,0
+73.49352310236907,Restaurants,Weekday,Afternoon,Local,Gas Station,Medium,Occasional,0
+294.8937919906246,Gas,Weekday,Late Night,Online,Gas Station,Low,Frequent,0
+61.88725282894989,Utilities,Weekday,Afternoon,Nearby City,Restaurant,Medium,Frequent,0
+135.18237339378922,Groceries,Weekday,Afternoon,Local,Online Shop,Medium,Rare,0
+44.023632572468465,Restaurants,Weekday,Afternoon,Local,Restaurant,Medium,Rare,0
+6.524493508140203,Restaurants,Weekday,Evening,Local,Online Shop,Low,Occasional,0
+231.88925396140021,Utilities,Weekday,Evening,International,Restaurant,Medium,Occasional,0
+117.44141707657604,Groceries,Weekday,Afternoon,Local,Retail Store,Medium,Frequent,0
+35.20933227358294,Restaurants,Weekday,Afternoon,Local,Restaurant,Medium,Occasional,0
+50.836134650058106,Restaurants,Weekday,Afternoon,Local,Retail Store,Medium,Frequent,0
+78.07009765752895,Restaurants,Weekday,Morning,Nearby City,Retail Store,Medium,Rare,0
+56.55964485387969,Utilities,Holiday,Afternoon,Different State,Gas Station,Medium,Occasional,0
+56.77368945570617,Utilities,Weekday,Afternoon,Local,Restaurant,High,Occasional,0
+184.8881684961213,Groceries,Weekday,Evening,Local,Retail Store,High,Frequent,0
+35.423564750335295,Restaurants,Weekday,Evening,Local,Gas Station,Medium,Frequent,0
+44.63029660688646,Gas,Weekend,Evening,Local,Restaurant,High,Occasional,0
+56.44201455864354,Restaurants,Weekend,Evening,Local,Supermarket,Medium,Frequent,0
+101.66367851567347,Groceries,Weekday,Evening,Online,Restaurant,High,Frequent,0
+264.6254998192504,Online Shopping,Weekday,Late Night,Different State,Restaurant,Medium,Occasional,0
+12.288981425889679,Groceries,Weekend,Evening,Local,Retail Store,Medium,Occasional,0
+10.247615474097993,Groceries,Weekday,Late Night,Online,Restaurant,Low,Rare,0
+226.23985507685154,Online Shopping,Weekday,Late Night,Local,Supermarket,Medium,Rare,0
+35.56785289123394,Restaurants,Holiday,Evening,Nearby City,Retail Store,Medium,Rare,0
+59.169564487434755,Utilities,Weekday,Evening,Local,Restaurant,Medium,Rare,0
+51.56337342158626,Restaurants,Weekday,Afternoon,Local,Online Shop,Low,Occasional,0
+2.6210863373387747,Online Shopping,Weekday,Afternoon,Online,Service Provider,High,Occasional,0
+16.00574923388607,Groceries,Weekday,Afternoon,Local,Online Shop,High,Rare,0
+3.0973662126496606,Gas,Weekday,Afternoon,Different State,Gas Station,Low,Occasional,0
+16.250570417841068,Restaurants,Weekday,Evening,Nearby City,Online Shop,High,Rare,0
+205.18305026441828,Groceries,Weekend,Evening,Online,Retail Store,High,Occasional,0
+64.16665633788274,Utilities,Weekend,Afternoon,Local,Gas Station,High,Frequent,0
+82.3235448697746,Gas,Weekday,Morning,Nearby City,Restaurant,Low,Occasional,0
+29.23023804649404,Groceries,Weekday,Evening,Local,Service Provider,High,Rare,0
+45.62639578324728,Utilities,Weekday,Afternoon,Different State,Gas Station,Medium,Frequent,0
+71.78455322138609,Gas,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+6.500295095266509,Groceries,Weekend,Morning,Online,Gas Station,Medium,Frequent,0
+67.1822242550913,Utilities,Weekday,Morning,Nearby City,Restaurant,High,Occasional,0
+46.82643540448827,Groceries,Weekend,Late Night,Nearby City,Restaurant,Medium,Frequent,0
+60.10661678169657,Restaurants,Weekday,Morning,Nearby City,Restaurant,Low,Rare,0
+17.71999153999827,Groceries,Weekday,Late Night,Local,Supermarket,Medium,Frequent,0
+154.88760632370213,Gas,Weekday,Evening,Nearby City,Supermarket,Low,Occasional,0
+74.70219122135559,Online Shopping,Weekend,Evening,Online,Gas Station,Low,Occasional,0
+6.129768788006014,Groceries,Weekday,Morning,Online,Retail Store,Medium,Occasional,0
+6.7807879457665425,Restaurants,Weekend,Late Night,Local,Gas Station,High,Occasional,0
+179.23729710880502,Online Shopping,Weekend,Morning,Local,Restaurant,Low,Occasional,0
+82.33731140697687,Online Shopping,Weekday,Evening,Local,Online Shop,Medium,Frequent,0
+54.85855646436327,Utilities,Weekend,Morning,Online,Supermarket,Medium,Occasional,0
+32.398733105849786,Restaurants,Weekday,Afternoon,Online,Restaurant,Medium,Frequent,0
+66.66401461574814,Restaurants,Weekday,Afternoon,Online,Supermarket,Low,Occasional,0
+18.056805952266863,Restaurants,Weekend,Evening,Online,Supermarket,Medium,Occasional,0
+254.6225352370153,Restaurants,Weekday,Afternoon,Nearby City,Supermarket,Medium,Occasional,0
+15.247361791294686,Gas,Weekday,Evening,Local,Restaurant,Medium,Occasional,0
+220.18084817654673,Restaurants,Weekday,Afternoon,Nearby City,Retail Store,Low,Occasional,0
+56.4344941622974,Online Shopping,Weekday,Evening,Nearby City,Retail Store,Low,Frequent,0
+60.862123538651645,Utilities,Holiday,Evening,Online,Retail Store,Medium,Frequent,0
+50.05111207942346,Online Shopping,Weekday,Late Night,Local,Restaurant,Medium,Rare,0
+136.1112796227657,Utilities,Weekday,Evening,Nearby City,Gas Station,Medium,Occasional,0
+65.0811436783261,Groceries,Weekend,Afternoon,Local,Online Shop,High,Occasional,0
+17.515888085962974,Groceries,Weekday,Afternoon,Online,Online Shop,Medium,Occasional,0
+2.2736082851976267,Gas,Weekend,Afternoon,Local,Restaurant,Medium,Occasional,0
+198.6592438143784,Utilities,Weekday,Evening,Local,ATM,High,Occasional,0
+206.16702166512212,Gas,Weekend,Afternoon,Local,Online Shop,Medium,Occasional,0
+48.00964821792744,Utilities,Weekend,Evening,Local,Gas Station,Medium,Frequent,0
+14.03889502342876,Restaurants,Weekday,Evening,Nearby City,Service Provider,Medium,Occasional,0
+10.547058200943088,Groceries,Weekday,Evening,Local,Retail Store,Medium,Frequent,0
+9.489052411451041,Online Shopping,Weekend,Evening,Local,Retail Store,Low,Frequent,0
+54.789376024527975,Groceries,Weekday,Afternoon,Nearby City,Online Shop,Medium,Frequent,0
+42.357561039625836,Groceries,Weekday,Afternoon,Nearby City,Retail Store,High,Rare,0
+213.73607195554945,Online Shopping,Weekday,Afternoon,Online,Gas Station,Medium,Occasional,0
+46.22456419907925,Gas,Weekday,Afternoon,Online,Supermarket,Medium,Rare,0
+17.567124525173153,Restaurants,Weekend,Morning,Nearby City,Supermarket,Medium,Rare,0
+38.25996094225576,Utilities,Weekday,Morning,Local,Restaurant,Medium,Occasional,0
+14.99989647083142,Gas,Weekend,Evening,Nearby City,Gas Station,Medium,Frequent,0
+84.31825194863134,Restaurants,Weekend,Evening,Local,Online Shop,High,Occasional,0
+192.11022802479795,Utilities,Weekday,Afternoon,Different State,Retail Store,Medium,Occasional,0
+38.41264730408611,Online Shopping,Weekday,Evening,Local,Online Shop,Medium,Rare,0
+50.275394646605996,Gas,Weekday,Afternoon,Local,Retail Store,Medium,Rare,0
+33.91637580166218,Utilities,Weekday,Evening,Local,ATM,Medium,Occasional,0
+260.59905585164336,Restaurants,Weekend,Evening,Local,Restaurant,High,Rare,0
+41.525607315044105,Gas,Weekday,Morning,Online,Service Provider,Medium,Rare,0
+47.28921119550773,Online Shopping,Weekday,Evening,Online,Supermarket,Medium,Occasional,0
+39.90638621498063,Utilities,Weekday,Afternoon,Different State,Retail Store,Medium,Frequent,0
+10.698030372983766,Online Shopping,Weekend,Morning,Local,Gas Station,Medium,Frequent,0
+71.51529625907165,Utilities,Weekend,Afternoon,Different State,Retail Store,Medium,Occasional,0
+23.658863018788296,Groceries,Weekend,Evening,Local,Restaurant,High,Occasional,0
+45.493596957848396,Utilities,Weekday,Evening,Local,Restaurant,High,Occasional,0
+216.1828485818791,Utilities,Weekend,Afternoon,Online,Retail Store,Medium,Frequent,0
+41.728123686420105,Gas,Weekday,Evening,Online,Gas Station,Low,Occasional,0
+66.70635084835742,Restaurants,Weekend,Afternoon,Local,Service Provider,High,Frequent,0
+129.48572570194312,Restaurants,Weekday,Morning,Local,Gas Station,Medium,Occasional,0
+15.812353462873016,Restaurants,Weekday,Morning,Nearby City,Restaurant,High,Occasional,0
+1.231188221794584,Gas,Weekday,Evening,Local,Retail Store,Medium,Frequent,0
+57.59160110205321,Utilities,Weekend,Afternoon,Local,Online Shop,High,Occasional,0
+8.623671486928888,Restaurants,Weekday,Evening,Online,Retail Store,High,Rare,0
+163.56029112620234,Gas,Weekday,Morning,Online,Gas Station,Medium,Rare,0
+4.880814864294464,Online Shopping,Weekend,Morning,Different State,Restaurant,Medium,Frequent,0
+284.19639470397544,Groceries,Weekend,Evening,Nearby City,Restaurant,Medium,Occasional,0
+35.866942400020136,Groceries,Weekend,Afternoon,Local,Restaurant,Low,Frequent,0
+46.48044668488982,Online Shopping,Weekday,Evening,Online,Gas Station,Medium,Occasional,0
+93.3194166872731,Groceries,Weekday,Afternoon,Nearby City,Retail Store,Medium,Frequent,0
+20.113700571047275,Restaurants,Weekday,Afternoon,Online,Gas Station,Medium,Occasional,0
+57.36658606180668,Gas,Weekday,Evening,Nearby City,Gas Station,Medium,Frequent,0
+258.05132449982693,Groceries,Weekday,Evening,Local,Restaurant,Medium,Occasional,0
+0.8164859488786718,Groceries,Weekend,Evening,Nearby City,Online Shop,Medium,Occasional,0
+98.54790856836598,Groceries,Weekday,Late Night,Online,Supermarket,High,Rare,0
+244.89798429712556,Gas,Weekday,Evening,Local,Gas Station,High,Occasional,0
+1.4663618381917214,Online Shopping,Weekday,Evening,International,Online Shop,Medium,Rare,0
+0.1,Gas,Weekday,Morning,Nearby City,Gas Station,Medium,Occasional,0
+45.65862966486175,Groceries,Weekday,Afternoon,Nearby City,Retail Store,Medium,Occasional,0
+39.360489882822975,Gas,Weekend,Afternoon,Online,Online Shop,Medium,Frequent,0
+62.90544567115548,Online Shopping,Weekday,Afternoon,Online,Retail Store,Medium,Occasional,0
+274.30251612142695,Gas,Weekday,Afternoon,Local,Supermarket,Medium,Rare,0
+3.5349020707803174,Gas,Weekday,Evening,Online,Online Shop,Medium,Frequent,0
+48.450616065672754,Groceries,Weekday,Afternoon,Local,Retail Store,Medium,Rare,0
+57.82413203126552,Online Shopping,Weekday,Evening,Local,Gas Station,Medium,Occasional,0
+12.945452080854734,Gas,Weekend,Late Night,Local,Restaurant,Medium,Occasional,0
+42.91059453267188,Online Shopping,Weekday,Afternoon,Online,Restaurant,Medium,Occasional,0
+228.86037095846768,Utilities,Weekday,Evening,Online,Restaurant,Low,Occasional,0
+219.7112584248644,Gas,Weekday,Morning,Local,Restaurant,High,Frequent,0
+55.23137739450362,Utilities,Weekend,Evening,Different State,Online Shop,Low,Frequent,0
+41.90850591009142,Gas,Weekend,Evening,Nearby City,Supermarket,High,Occasional,0
+183.00925296532253,Groceries,Weekday,Evening,Local,Gas Station,Medium,Frequent,0
+10.182677365967127,Groceries,Weekday,Afternoon,Online,Supermarket,Medium,Occasional,0
+7.014126564780134,Utilities,Weekend,Evening,Local,Retail Store,Medium,Rare,0
+5.986551614483674,Online Shopping,Holiday,Afternoon,Online,Online Shop,Medium,Occasional,0
+27.559248232098206,Gas,Weekday,Afternoon,Nearby City,Restaurant,High,Frequent,0
+52.6187089135624,Gas,Weekend,Evening,Nearby City,Service Provider,Medium,Rare,0
+4.933863350186499,Online Shopping,Weekend,Morning,Local,Restaurant,Medium,Occasional,0
+185.6487044849513,Utilities,Weekend,Afternoon,Online,Supermarket,Medium,Frequent,0
+233.79878955448424,Restaurants,Weekday,Afternoon,Nearby City,Restaurant,High,Occasional,0
+46.86631236980374,Utilities,Weekday,Morning,Local,Restaurant,High,Frequent,0
+53.69085804431401,Online Shopping,Weekday,Afternoon,Local,Retail Store,High,Rare,0
+45.44611147091908,Gas,Weekend,Afternoon,Local,Supermarket,Medium,Frequent,0
+201.27647873674576,Groceries,Weekday,Evening,Local,Restaurant,Medium,Frequent,0
+58.947949093998275,Online Shopping,Weekday,Evening,Local,Online Shop,Low,Frequent,0
+56.158459044808566,Groceries,Weekday,Afternoon,Nearby City,Restaurant,Medium,Frequent,0
+14.344261391759357,Groceries,Weekday,Afternoon,Local,Restaurant,Medium,Rare,0
+8.246013807348273,Restaurants,Weekday,Afternoon,Local,Restaurant,High,Rare,0
+4.629006367503824,Utilities,Weekday,Afternoon,Local,Retail Store,Medium,Rare,0
+42.19894739532463,Gas,Weekend,Morning,Nearby City,Restaurant,Medium,Occasional,0
+205.54294403726166,Restaurants,Weekday,Evening,Local,Supermarket,Medium,Occasional,0
+961.0445169453085,Travel,Weekend,Late Night,Different State,Unknown,Low,Occasional,1
+38.62552172326788,Gas,Weekend,Afternoon,Local,Restaurant,Medium,Rare,0
+152.01945566255066,Online Shopping,Weekend,Evening,Local,Supermarket,Medium,Rare,0
+8.503505786306297,Groceries,Weekend,Afternoon,Local,Supermarket,Medium,Occasional,0
+35.31869855922201,Gas,Weekday,Afternoon,Local,Restaurant,Medium,Frequent,0
+48.53569404718954,Restaurants,Weekday,Afternoon,Online,Retail Store,High,Occasional,0
+21.61025440377877,Online Shopping,Weekday,Evening,Nearby City,Supermarket,Medium,Occasional,0
+212.00750225648835,Restaurants,Weekday,Afternoon,Nearby City,Retail Store,High,Frequent,0
+73.6504348179985,Groceries,Weekday,Morning,Local,Restaurant,Low,Occasional,0
+43.68694717594826,Gas,Weekend,Morning,Local,Retail Store,Medium,Rare,0
+88.62100117997508,Groceries,Weekday,Evening,Online,Retail Store,Low,Occasional,0
+9.521698244894218,Online Shopping,Weekday,Morning,Nearby City,Restaurant,Medium,Frequent,0
+72.4435767018484,Online Shopping,Weekday,Afternoon,Online,Online Shop,Medium,Occasional,0
+191.4729295564896,Groceries,Weekend,Evening,Online,Restaurant,High,Occasional,0
+61.640503813956585,Online Shopping,Weekday,Evening,Online,Online Shop,Medium,Rare,0
+9.527327379077299,Utilities,Weekday,Late Night,Nearby City,Supermarket,Medium,Rare,0
+56.05932896384612,Restaurants,Weekday,Morning,Online,Online Shop,High,Frequent,0
+46.70390297709392,Restaurants,Weekend,Afternoon,Different State,Restaurant,Medium,Occasional,0
+80.99764127975386,Online Shopping,Weekday,Afternoon,Local,Restaurant,High,Rare,0
+34.6739547573186,Restaurants,Holiday,Late Night,Nearby City,Supermarket,Medium,Occasional,0
+15.949048084989945,Groceries,Weekday,Morning,Online,ATM,Medium,Frequent,0
+55.89956091608571,Gas,Weekday,Evening,Nearby City,Retail Store,Medium,Rare,0
+183.46967659162925,Restaurants,Weekday,Morning,Online,ATM,High,Rare,0
+3.3495930493689565,Gas,Weekday,Evening,Nearby City,Retail Store,High,Rare,0
+5.084220382005203,Online Shopping,Weekday,Afternoon,Online,Retail Store,Low,Frequent,0
+81.6033001985203,Gas,Weekday,Afternoon,Nearby City,Retail Store,Medium,Rare,0
+7.269916249246649,Online Shopping,Weekday,Afternoon,Nearby City,Retail Store,Medium,Occasional,0
+63.46060949821961,Restaurants,Weekday,Afternoon,Local,Online Shop,High,Occasional,0
+50.21746640996305,Utilities,Weekend,Evening,Local,Online Shop,Low,Frequent,0
+65.57629530479392,Restaurants,Weekday,Afternoon,Nearby City,Online Shop,Medium,Occasional,0
+45.034427361202816,Restaurants,Weekday,Afternoon,Local,Gas Station,High,Occasional,0
+195.10598894978745,Online Shopping,Weekday,Afternoon,Online,Retail Store,High,Rare,0
+59.299274891868244,Gas,Weekday,Afternoon,Local,Restaurant,Medium,Occasional,0
+246.800539024965,Restaurants,Weekday,Evening,Nearby City,Retail Store,Medium,Rare,0
+48.01849503839592,Gas,Weekday,Afternoon,Different State,Supermarket,Low,Occasional,0
+72.07994899894481,Online Shopping,Weekday,Evening,Online,Retail Store,Medium,Occasional,0
+261.66611805737034,Groceries,Weekday,Evening,Nearby City,Retail Store,High,Frequent,0
+5.380733873211624,Online Shopping,Weekday,Evening,Local,Retail Store,Medium,Frequent,0
+14.416613824267356,Gas,Weekday,Afternoon,Local,Restaurant,Medium,Occasional,0
+58.86432143646422,Online Shopping,Weekday,Morning,Local,Retail Store,Medium,Occasional,0
+225.94943416048454,Restaurants,Holiday,Evening,Different State,Gas Station,High,Frequent,0
+33.06184839529352,Groceries,Weekday,Evening,Local,Restaurant,High,Rare,0
+204.99844724562513,Restaurants,Weekday,Afternoon,Online,Supermarket,Medium,Occasional,0
+43.57653959544529,Restaurants,Weekday,Evening,Online,Online Shop,Medium,Frequent,0
+46.6398155687442,Gas,Weekday,Evening,Local,Retail Store,Medium,Occasional,0
+181.81005582146116,Gas,Weekday,Late Night,Online,Gas Station,High,Frequent,0
+5.915104369785384,Groceries,Weekend,Evening,Nearby City,Restaurant,High,Occasional,0
+56.13714419771861,Groceries,Weekday,Late Night,Online,Restaurant,High,Occasional,0
+231.8798325300939,Restaurants,Weekday,Morning,Online,Restaurant,Medium,Frequent,0
+51.387915239989034,Gas,Weekday,Evening,Local,Gas Station,High,Frequent,0
+51.44818938974222,Restaurants,Weekday,Evening,Local,Restaurant,Low,Occasional,0
+72.55595719006075,Restaurants,Weekday,Afternoon,Nearby City,Restaurant,Low,Occasional,0
+190.1267670527687,Utilities,Weekend,Afternoon,Online,Restaurant,High,Occasional,0
+35.58053963310623,Utilities,Weekday,Evening,Online,Service Provider,Medium,Rare,0
+7.5022842752913235,Gas,Weekday,Morning,Nearby City,Restaurant,Medium,Rare,0
+214.1166035689062,Groceries,Weekday,Evening,Nearby City,Gas Station,High,Rare,0
+17.102254837061828,Online Shopping,Weekend,Afternoon,Local,Gas Station,Low,Occasional,0
+52.09028019424142,Online Shopping,Weekday,Evening,Nearby City,Gas Station,Medium,Rare,0
+53.89736002468019,Restaurants,Weekend,Evening,Local,Online Shop,Low,Occasional,0
+232.43898399024852,Restaurants,Weekday,Evening,Local,Gas Station,Medium,Frequent,0
+199.4053188908033,Utilities,Holiday,Late Night,Nearby City,Restaurant,Medium,Occasional,0
+45.05100201397739,Restaurants,Holiday,Afternoon,Local,Supermarket,High,Occasional,0
+80.54226104009415,Groceries,Weekday,Evening,Nearby City,Service Provider,Low,Occasional,0
+144.9289877728149,Online Shopping,Weekday,Afternoon,Local,Gas Station,Medium,Frequent,0
+17.759803760591566,Online Shopping,Weekday,Evening,International,Retail Store,Medium,Occasional,0
+122.027694863425,Online Shopping,Weekday,Evening,Local,Gas Station,Medium,Frequent,0
+200.25922466451686,Groceries,Weekday,Evening,Nearby City,Online Shop,High,Occasional,0
+179.81198926940263,Groceries,Weekday,Morning,Local,Service Provider,Medium,Frequent,0
+15.686776685578831,Groceries,Holiday,Afternoon,Local,Retail Store,Medium,Frequent,0
+51.68221434460082,Utilities,Weekday,Morning,Nearby City,Online Shop,High,Rare,0
+66.51634849552535,Groceries,Weekday,Evening,Nearby City,Retail Store,Medium,Frequent,0
+45.84132697478529,Restaurants,Weekday,Afternoon,Online,ATM,Medium,Frequent,0
+42.34325010615728,Online Shopping,Weekday,Afternoon,Local,Service Provider,Medium,Occasional,0
+75.31880627762787,Utilities,Weekday,Afternoon,Nearby City,Service Provider,Medium,Occasional,0
+11.290300357928444,Groceries,Weekday,Evening,Local,Restaurant,Medium,Occasional,0
+12.656485378882376,Utilities,Weekday,Afternoon,Different State,Retail Store,Medium,Frequent,0
+53.4244377253448,Restaurants,Weekday,Evening,Nearby City,Retail Store,Low,Rare,0
+43.032467414879356,Groceries,Weekday,Evening,Different State,Retail Store,Medium,Occasional,0
+45.460829464888995,Utilities,Weekday,Late Night,Different State,Gas Station,Medium,Frequent,0
+14.725648406026995,Restaurants,Weekday,Morning,Local,Supermarket,Low,Occasional,0
+65.55485609421459,Online Shopping,Weekend,Morning,Local,Restaurant,Medium,Rare,0
+33.425003818754334,Online Shopping,Weekend,Evening,Nearby City,Retail Store,Medium,Frequent,0
+23.203704162736454,Gas,Holiday,Evening,International,Retail Store,High,Frequent,0
+280.96220562845247,Utilities,Weekend,Evening,Online,Restaurant,Medium,Frequent,0
+3.4631940548751956,Restaurants,Weekday,Afternoon,Online,Retail Store,Medium,Occasional,0
+43.620028712802885,Online Shopping,Weekend,Morning,Nearby City,Supermarket,Low,Frequent,0
+3.206978582899617,Utilities,Weekday,Evening,Local,Restaurant,Medium,Occasional,0
+85.89454674136321,Restaurants,Weekday,Morning,Nearby City,Gas Station,Low,Occasional,0
+62.290661799472474,Utilities,Weekday,Evening,Online,Gas Station,Medium,Frequent,0
+877.9760842379482,Travel,Holiday,Morning,International,ATM,Low,Rare,1
+86.63808453721404,Online Shopping,Weekday,Morning,Local,Retail Store,Medium,Frequent,0
+56.21686347093036,Utilities,Weekday,Evening,Local,Retail Store,Medium,Rare,0
+12.61677341203264,Utilities,Holiday,Evening,Online,Restaurant,Medium,Occasional,0
+29.791253885565045,Online Shopping,Holiday,Evening,Local,Restaurant,High,Occasional,0
+62.327156682032594,Online Shopping,Weekend,Evening,Online,Restaurant,Medium,Rare,0
+24.59722224378163,Restaurants,Weekend,Evening,Local,Restaurant,High,Occasional,0
+12.071359015181091,Gas,Weekday,Morning,Online,Supermarket,Medium,Frequent,0
+72.08795482304757,Gas,Weekday,Evening,Local,Supermarket,Medium,Frequent,0
+12.858482229730225,Gas,Weekday,Evening,Local,Retail Store,Medium,Frequent,0
+69.17576877755482,Utilities,Weekday,Evening,Local,Supermarket,High,Occasional,0
+7.218426353953909,Groceries,Weekend,Evening,Local,Restaurant,High,Frequent,0
+6.083529333494463,Utilities,Weekend,Afternoon,Online,Supermarket,Medium,Occasional,0
+175.8361517841643,Gas,Weekday,Morning,Local,Restaurant,Low,Rare,0
+0.1,Restaurants,Weekday,Afternoon,Nearby City,Retail Store,High,Rare,0
+8.022764987684717,Utilities,Weekday,Afternoon,Local,Retail Store,Medium,Occasional,0
+57.948445117959274,Utilities,Weekday,Morning,Nearby City,Service Provider,Low,Occasional,0
+36.56300122780818,Groceries,Weekday,Afternoon,Online,Supermarket,Medium,Occasional,0
+35.89962634390767,Gas,Weekday,Morning,Local,Restaurant,High,Frequent,0
+123.78075668763601,Groceries,Weekend,Morning,Different State,Online Shop,High,Occasional,0
+8.746910954552789,Online Shopping,Weekday,Late Night,Online,Retail Store,Low,Occasional,0
+153.0406443456734,Online Shopping,Weekday,Evening,Online,Online Shop,Low,Rare,0
+76.06336561585283,Gas,Weekday,Morning,Online,ATM,Medium,Rare,0
+5.481345868663195,Restaurants,Weekday,Afternoon,Local,Restaurant,High,Rare,0
+175.99339762497323,Online Shopping,Holiday,Afternoon,Local,Gas Station,Low,Occasional,0
+34.69672531428921,Groceries,Weekday,Late Night,Online,Service Provider,Medium,Occasional,0
+16.819551955605988,Utilities,Weekday,Evening,Local,Restaurant,High,Occasional,0
+64.81687268751442,Gas,Weekend,Evening,Different State,Gas Station,Medium,Occasional,0
+6.76549845628447,Restaurants,Weekend,Morning,Nearby City,Online Shop,High,Occasional,0
+18.211590202154234,Restaurants,Weekday,Morning,Online,Retail Store,Medium,Occasional,0
+80.37234664036176,Groceries,Weekday,Afternoon,Local,Online Shop,High,Occasional,0
+134.27070885922237,Restaurants,Weekday,Afternoon,Online,Restaurant,Medium,Occasional,0
+67.42108344288394,Restaurants,Weekday,Evening,Local,Retail Store,High,Frequent,0
+106.40517365474709,Restaurants,Weekend,Afternoon,Nearby City,Restaurant,High,Occasional,0
+41.377361784089985,Online Shopping,Weekday,Morning,Online,Supermarket,Low,Occasional,0
+150.42381756847413,Online Shopping,Weekend,Morning,Local,Online Shop,Medium,Rare,0
+167.065854817988,Restaurants,Weekend,Afternoon,Online,Online Shop,High,Occasional,0
+4.761326334637388,Groceries,Weekend,Morning,Nearby City,Retail Store,Medium,Frequent,0
+93.51325188906003,Online Shopping,Holiday,Afternoon,Different State,Online Shop,High,Frequent,0
+281.56975517150664,Online Shopping,Weekday,Afternoon,Nearby City,Online Shop,Low,Rare,0
+3.6079227839916648,Utilities,Weekday,Morning,Local,Restaurant,Low,Rare,0
+30.87035670988661,Utilities,Holiday,Evening,Online,Gas Station,Medium,Frequent,0
+33.6639527691037,Gas,Weekday,Evening,Local,Retail Store,Medium,Occasional,0
+13.036364393562874,Utilities,Weekday,Morning,Nearby City,Restaurant,Medium,Rare,0
+1.8434791807211983,Groceries,Weekday,Afternoon,Nearby City,Restaurant,High,Frequent,0
+55.77928401581025,Gas,Weekday,Evening,Online,Service Provider,High,Frequent,0
+13.373204410746787,Gas,Weekday,Morning,Online,Supermarket,High,Occasional,0
+60.20564437006525,Restaurants,Weekday,Morning,Nearby City,Restaurant,High,Rare,0
+9.278140332634504,Online Shopping,Weekend,Morning,Local,Restaurant,High,Rare,0
+54.78461517020693,Restaurants,Weekday,Afternoon,Online,Restaurant,Medium,Frequent,0
+260.40645453802114,Restaurants,Weekday,Afternoon,Different State,Restaurant,Medium,Occasional,0
+13.865445712793752,Restaurants,Weekday,Afternoon,Different State,Retail Store,High,Rare,0
+35.76926186018104,Restaurants,Weekday,Morning,Nearby City,Gas Station,Medium,Rare,0
+14.111939065453402,Online Shopping,Weekday,Evening,Nearby City,Restaurant,Low,Rare,0
+14.410236689026844,Online Shopping,Weekday,Morning,Local,Retail Store,Medium,Rare,0
+183.86438838905428,Groceries,Weekday,Morning,Different State,Gas Station,High,Occasional,0
+63.215079811689186,Utilities,Weekend,Morning,Local,Supermarket,Low,Occasional,0
+59.74882256782214,Restaurants,Weekday,Afternoon,Online,Restaurant,Medium,Frequent,0
+56.856229401571674,Utilities,Weekday,Morning,Online,Online Shop,Medium,Occasional,0
+1.9222939365460405,Utilities,Weekday,Afternoon,Local,Retail Store,High,Frequent,0
+12.079183197956018,Utilities,Weekday,Morning,Nearby City,Online Shop,Low,Occasional,0
+14.604096440594638,Online Shopping,Weekend,Late Night,Local,Retail Store,Low,Occasional,0
+15.96110458465832,Gas,Weekend,Afternoon,Local,Restaurant,Low,Frequent,0
+12.388771365331753,Restaurants,Weekday,Afternoon,Local,Retail Store,Medium,Occasional,0
+201.68813255664094,Groceries,Weekday,Evening,Different State,Restaurant,Medium,Rare,0
+46.08636093353421,Restaurants,Weekend,Morning,Local,Restaurant,Low,Occasional,0
+253.0867240869273,Utilities,Weekday,Afternoon,Different State,Supermarket,High,Occasional,0
+8.898449765510762,Online Shopping,Weekday,Afternoon,Local,Supermarket,Medium,Occasional,0
+62.06427932886848,Utilities,Weekday,Evening,Local,Supermarket,Low,Rare,0
+13.603773028901243,Online Shopping,Weekend,Evening,Nearby City,Online Shop,Medium,Frequent,0
+37.29954956993126,Utilities,Weekday,Afternoon,Different State,Restaurant,Medium,Rare,0
+79.39539177345983,Groceries,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+65.47312294483541,Restaurants,Weekday,Afternoon,Local,Online Shop,Medium,Rare,0
+272.0338095174263,Restaurants,Weekday,Evening,Online,Gas Station,Low,Occasional,0
+0.1,Gas,Weekday,Evening,Online,Retail Store,Medium,Occasional,0
+12.330412085420196,Restaurants,Weekend,Morning,Local,Online Shop,High,Rare,0
+7.387241414895451,Groceries,Weekday,Late Night,Local,Online Shop,Medium,Frequent,0
+9.369766620751735,Online Shopping,Weekday,Afternoon,Local,Gas Station,Medium,Occasional,0
+62.39869129590264,Groceries,Weekday,Morning,Local,Retail Store,Low,Occasional,0
+106.91885084503865,Utilities,Weekday,Evening,Online,Gas Station,Medium,Occasional,0
+55.21370920586253,Online Shopping,Weekday,Morning,Nearby City,Supermarket,Low,Frequent,0
+59.42668227788798,Groceries,Weekday,Evening,Nearby City,Restaurant,Low,Frequent,0
+14.04594071679791,Groceries,Weekday,Afternoon,Nearby City,Restaurant,Low,Frequent,0
+8.62260916764384,Utilities,Weekend,Evening,Online,Restaurant,Medium,Occasional,0
+201.9854148620866,Restaurants,Weekday,Evening,Local,Restaurant,Medium,Frequent,0
+1227.657118195254,Gaming,Weekday,Evening,Nearby City,ATM,Low,Frequent,1
+62.557353043363975,Utilities,Weekday,Evening,Nearby City,Supermarket,Low,Rare,0
+7.650559359311056,Restaurants,Weekday,Evening,Local,Gas Station,Medium,Occasional,0
+65.0754666942669,Online Shopping,Weekday,Evening,Online,Gas Station,Low,Occasional,0
+13.405658101398505,Online Shopping,Weekday,Afternoon,Online,Restaurant,High,Rare,0
+77.02610065903876,Utilities,Weekday,Evening,Nearby City,Supermarket,Medium,Frequent,0
+55.4095327807004,Gas,Weekday,Late Night,Online,Restaurant,Low,Frequent,0
+95.06014327217092,Gas,Weekday,Morning,Different State,Service Provider,Medium,Frequent,0
+241.55170423162264,Groceries,Weekday,Morning,Local,Gas Station,Medium,Rare,0
+48.68471301820281,Gas,Weekend,Afternoon,Online,Retail Store,Medium,Frequent,0
+33.98687957996596,Online Shopping,Weekday,Morning,Nearby City,Retail Store,Low,Occasional,0
+16.56001404424031,Utilities,Weekday,Evening,Local,Restaurant,Low,Occasional,0
+71.65647910930595,Restaurants,Weekend,Morning,Local,Restaurant,Medium,Occasional,0
+126.69819851372421,Groceries,Weekday,Evening,Local,Restaurant,High,Occasional,0
+14.075582602780308,Utilities,Holiday,Afternoon,Local,Online Shop,Medium,Occasional,0
+56.312026630483004,Restaurants,Weekday,Morning,Local,Supermarket,Medium,Occasional,0
+70.28495302708514,Groceries,Weekday,Morning,International,Restaurant,Medium,Occasional,0
+6.84736894680166,Groceries,Holiday,Evening,Local,Restaurant,High,Occasional,0
+236.56428034309107,Gas,Weekday,Afternoon,Online,Retail Store,Medium,Occasional,0
+7.051845831806261,Utilities,Weekday,Afternoon,Online,Online Shop,Medium,Rare,0
+167.54553877394665,Utilities,Weekday,Morning,Local,Retail Store,Medium,Occasional,0
+9.328472248907119,Gas,Weekday,Afternoon,Online,Retail Store,Medium,Occasional,0
+10.243443806117728,Restaurants,Weekday,Afternoon,Nearby City,Restaurant,High,Rare,0
+10.792889481477356,Online Shopping,Weekday,Morning,Nearby City,ATM,Medium,Occasional,0
+6.22243351773093,Gas,Weekday,Late Night,Nearby City,Supermarket,Medium,Frequent,0
+6.863512539779272,Online Shopping,Weekday,Evening,Local,Restaurant,Medium,Rare,0
+9.12513498967194,Utilities,Weekday,Morning,Local,Restaurant,Low,Rare,0
+43.63340694380206,Restaurants,Weekday,Morning,Local,Gas Station,High,Frequent,0
+45.46040765614494,Utilities,Weekday,Evening,Local,Retail Store,High,Frequent,0
+17.388602921948994,Groceries,Weekday,Afternoon,Online,Supermarket,High,Rare,0
+3.178016115342853,Gas,Weekday,Evening,Nearby City,Restaurant,Medium,Rare,0
+34.527550537025824,Online Shopping,Weekday,Evening,Different State,ATM,Medium,Rare,0
+43.614534091834,Utilities,Weekday,Evening,Local,Restaurant,Low,Occasional,0
+68.05561715270764,Groceries,Weekday,Afternoon,Online,Restaurant,Medium,Frequent,0
+8.822003296197344,Online Shopping,Weekday,Morning,Nearby City,Restaurant,Low,Rare,0
+45.195224589488404,Utilities,Weekday,Morning,Online,Gas Station,Low,Occasional,0
+10.744250334462857,Groceries,Weekday,Afternoon,Local,Gas Station,Medium,Frequent,0
+8.017811887757965,Utilities,Weekday,Afternoon,Local,Retail Store,Medium,Frequent,0
+102.27825135540246,Gas,Weekend,Evening,Online,Online Shop,Medium,Occasional,0
+210.93007272523033,Online Shopping,Holiday,Evening,Local,Online Shop,Low,Frequent,0
+36.44254200182297,Groceries,Weekday,Afternoon,Different State,Gas Station,Medium,Rare,0
+22.150717361546967,Utilities,Weekday,Late Night,Online,Retail Store,Low,Occasional,0
+27.465305124612573,Online Shopping,Weekday,Late Night,Online,Service Provider,High,Frequent,0
+22.813854367459747,Gas,Weekday,Morning,Online,Supermarket,High,Occasional,0
+31.81382432321722,Gas,Weekday,Evening,Different State,Restaurant,Medium,Frequent,0
+68.22927787965136,Online Shopping,Weekday,Afternoon,Online,Online Shop,Medium,Occasional,0
+72.7917949505727,Groceries,Weekday,Evening,Nearby City,Retail Store,Medium,Occasional,0
+49.32080695006861,Online Shopping,Weekday,Morning,Nearby City,Restaurant,Medium,Occasional,0
+50.97243750207474,Groceries,Weekday,Evening,Nearby City,Gas Station,Medium,Frequent,0
+68.26905180599138,Online Shopping,Weekday,Evening,Local,Online Shop,Medium,Frequent,0
+144.31332166577414,Online Shopping,Weekday,Late Night,Local,Service Provider,High,Frequent,0
+253.7195602349517,Utilities,Weekday,Evening,Local,Retail Store,High,Rare,0
+243.51526153137388,Utilities,Holiday,Afternoon,Nearby City,Online Shop,Medium,Occasional,0
+9.541716153441321,Restaurants,Weekday,Evening,Different State,Supermarket,Medium,Occasional,0
+56.65700008483555,Groceries,Weekday,Late Night,Nearby City,Online Shop,Medium,Frequent,0
+9.540896870763934,Utilities,Weekday,Evening,Local,Online Shop,High,Occasional,0
+11.146361834587106,Gas,Weekday,Evening,Online,Service Provider,Medium,Occasional,0
+6.5427436197356865,Online Shopping,Weekday,Evening,Nearby City,Retail Store,Medium,Rare,0
+12.01883149531055,Utilities,Weekend,Evening,Local,Retail Store,Medium,Rare,0
+8.980591704915836,Restaurants,Weekday,Evening,Local,ATM,Medium,Frequent,0
+211.1989089731667,Groceries,Weekday,Evening,Online,Gas Station,Low,Rare,0
+39.71528417324336,Restaurants,Weekday,Morning,Online,Service Provider,Medium,Occasional,0
+22.564477794835717,Online Shopping,Weekend,Evening,Local,ATM,Medium,Occasional,0
+34.96927541803685,Restaurants,Holiday,Evening,Nearby City,ATM,Medium,Occasional,0
+53.755142295682184,Utilities,Weekday,Evening,Local,Retail Store,Medium,Rare,0
+3733.9702418586216,Jewelry,Weekday,Afternoon,Different State,Restaurant,Low,Occasional,1
+39.596170284029085,Utilities,Weekday,Morning,Online,Gas Station,Medium,Frequent,0
+55.248877531874896,Restaurants,Weekday,Evening,Online,Supermarket,Medium,Rare,0
+57.892932620243855,Gas,Weekday,Evening,Online,Gas Station,High,Occasional,0
+15.340863434766925,Restaurants,Weekend,Evening,Different State,Supermarket,Medium,Frequent,0
+13.280738391279684,Gas,Weekend,Late Night,Online,Gas Station,Medium,Occasional,0
+8.081878067033065,Gas,Weekday,Morning,Online,Supermarket,Medium,Occasional,0
+10.758785332239185,Utilities,Weekday,Afternoon,Online,Retail Store,Low,Rare,0
+2.3622972996398754,Online Shopping,Holiday,Afternoon,Local,Online Shop,High,Frequent,0
+76.89329000202761,Utilities,Weekday,Afternoon,Local,Supermarket,Medium,Occasional,0
+52.49890935720341,Gas,Weekday,Morning,Nearby City,Restaurant,High,Frequent,0
+51.25810709930164,Online Shopping,Weekday,Morning,Different State,ATM,Medium,Occasional,0
+67.46283384185894,Utilities,Weekday,Afternoon,Local,Gas Station,Medium,Frequent,0
+49.962388995655154,Utilities,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+60.97552075699553,Groceries,Weekday,Evening,Local,Restaurant,High,Rare,0
+46.53858682963729,Restaurants,Weekday,Evening,Online,Restaurant,Medium,Frequent,0
+10.220845162530239,Restaurants,Weekday,Afternoon,Online,Restaurant,Medium,Occasional,0
+272.231926330171,Utilities,Weekday,Afternoon,Local,Supermarket,Medium,Frequent,0
+61.957243072652126,Gas,Weekday,Late Night,Online,Gas Station,Medium,Occasional,0
+56.99632057276872,Online Shopping,Weekday,Afternoon,Local,Restaurant,Medium,Occasional,0
+64.22362023167435,Gas,Weekend,Afternoon,Nearby City,Retail Store,High,Occasional,0
+17.535509077461402,Utilities,Weekend,Morning,Local,Supermarket,High,Frequent,0
+197.06568199300074,Utilities,Weekday,Evening,International,Gas Station,Medium,Occasional,0
+53.13920396360569,Online Shopping,Weekday,Morning,Different State,Retail Store,Medium,Rare,0
+162.32695663812535,Utilities,Weekday,Evening,Online,Supermarket,Medium,Occasional,0
+78.91291514253928,Gas,Weekday,Evening,Online,Retail Store,Low,Rare,0
+0.1,Utilities,Weekday,Late Night,Online,Online Shop,Medium,Frequent,0
+28.226776058658757,Gas,Weekday,Afternoon,Local,Online Shop,High,Occasional,0
+10.604343998079054,Restaurants,Weekend,Evening,Online,Restaurant,High,Frequent,0
+48.94277352209117,Utilities,Weekday,Afternoon,Nearby City,Online Shop,Medium,Occasional,0
+56.47247176739879,Restaurants,Weekday,Evening,Local,Service Provider,High,Occasional,0
+10.996455094059234,Online Shopping,Weekend,Morning,Local,Retail Store,Medium,Occasional,0
+235.42130465859165,Utilities,Weekend,Afternoon,Local,Restaurant,Medium,Frequent,0
+10.190711500756855,Restaurants,Weekend,Afternoon,Online,Online Shop,Medium,Frequent,0
+55.36495598952726,Groceries,Weekday,Evening,Local,Supermarket,Medium,Rare,0
+3.5975115345596143,Online Shopping,Holiday,Late Night,Online,Retail Store,Medium,Rare,1
+142.97563573875505,Groceries,Weekday,Evening,Different State,Restaurant,High,Occasional,0
+45.01821119057675,Online Shopping,Weekday,Morning,Online,Restaurant,Medium,Occasional,0
+54.982316711251045,Online Shopping,Weekday,Evening,Local,Retail Store,High,Occasional,0
+139.33285228701982,Groceries,Weekday,Afternoon,Local,Restaurant,Low,Occasional,0
+10.338948337959721,Gas,Weekday,Afternoon,Online,Online Shop,Medium,Occasional,0
+5.285091615102264,Online Shopping,Weekday,Afternoon,Online,ATM,High,Occasional,0
+12.942196736680494,Utilities,Weekday,Evening,Local,Restaurant,Medium,Occasional,0
+44.70546136272807,Gas,Weekday,Evening,Local,Service Provider,High,Occasional,0
+56.14251715173814,Utilities,Weekday,Afternoon,Local,Restaurant,Medium,Occasional,0
+56.14074617457119,Gas,Weekday,Morning,Different State,Supermarket,Medium,Occasional,0
+12.242635811651171,Restaurants,Weekend,Afternoon,Local,Online Shop,Medium,Frequent,0
+62.01245146182248,Groceries,Weekday,Afternoon,Online,Online Shop,Medium,Rare,0
+9.60766526620402,Restaurants,Weekday,Evening,Local,Retail Store,Low,Occasional,0
+48.22262158575202,Groceries,Weekday,Evening,Local,Online Shop,Medium,Occasional,0
+60.842948075328856,Restaurants,Weekend,Morning,Different State,Retail Store,High,Frequent,0
+52.67015637449315,Gas,Weekday,Late Night,Local,Gas Station,Medium,Occasional,0
+39.061325647119304,Groceries,Weekday,Morning,Local,Retail Store,Medium,Frequent,0
+51.379578668089735,Restaurants,Weekend,Afternoon,Nearby City,Retail Store,Low,Occasional,0
+12.872515064468034,Online Shopping,Weekend,Morning,Nearby City,Supermarket,High,Rare,0
+43.75142862978292,Online Shopping,Weekend,Afternoon,Local,Supermarket,High,Rare,0
+86.46589203038246,Utilities,Weekday,Afternoon,Local,Retail Store,High,Occasional,0
+10.645442374221162,Utilities,Weekend,Evening,Nearby City,Online Shop,Medium,Occasional,0
+46.54687664304453,Utilities,Weekday,Late Night,Local,Supermarket,Low,Rare,0
+74.2531959484741,Online Shopping,Weekend,Evening,Nearby City,Restaurant,Medium,Frequent,0
+59.48408780004785,Utilities,Weekend,Evening,Local,Restaurant,Low,Frequent,0
+40.38571374762645,Groceries,Weekday,Evening,Local,Retail Store,Medium,Occasional,0
+66.21919102817026,Utilities,Weekday,Morning,Local,Supermarket,High,Rare,0
+14.669343126514594,Restaurants,Weekday,Morning,Local,Retail Store,Medium,Occasional,0
+55.94043974124342,Groceries,Weekday,Evening,Online,Restaurant,Medium,Occasional,0
+12.852164656247759,Online Shopping,Weekend,Afternoon,Local,Supermarket,Low,Frequent,0
+27.907857881868388,Online Shopping,Weekday,Morning,Online,ATM,Medium,Rare,0
+46.936082779028766,Restaurants,Weekend,Morning,Local,Restaurant,Medium,Occasional,0
+9.872925729473728,Restaurants,Weekend,Afternoon,Nearby City,Retail Store,Medium,Rare,0
+12.197951826377645,Online Shopping,Weekday,Evening,Local,Retail Store,Low,Occasional,0
+36.56558695085157,Groceries,Weekday,Afternoon,Online,Retail Store,Medium,Occasional,0
+271.850304398703,Online Shopping,Weekday,Evening,Online,Service Provider,Medium,Rare,0
+15.234445758831434,Groceries,Weekend,Late Night,Online,Restaurant,Medium,Occasional,0
+221.5174740297409,Utilities,Weekday,Evening,Local,Retail Store,Low,Frequent,0
+13.24234388217456,Utilities,Weekday,Morning,Nearby City,Retail Store,Low,Frequent,0
+77.54527644729599,Restaurants,Weekday,Evening,Local,Gas Station,Medium,Occasional,0
+5.317411162838024,Groceries,Weekday,Evening,Different State,Restaurant,Medium,Frequent,0
+10.183601560572956,Online Shopping,Weekday,Afternoon,Online,Restaurant,Medium,Frequent,0
+56.21854823786813,Groceries,Weekend,Afternoon,Local,Restaurant,Medium,Rare,0
+8.070859945322727,Groceries,Weekday,Morning,Online,Restaurant,Low,Frequent,0
+6.5943608701911485,Utilities,Weekend,Afternoon,Nearby City,Supermarket,Medium,Rare,0
+53.61279975363236,Gas,Weekday,Afternoon,Local,Supermarket,Medium,Occasional,0
+58.984267341997466,Restaurants,Weekday,Afternoon,Local,Restaurant,Low,Rare,0
+82.50671151090287,Utilities,Weekend,Evening,Online,Supermarket,Low,Occasional,0
+161.67490109300462,Groceries,Weekend,Evening,Online,Service Provider,Medium,Frequent,0
+12.449859087351722,Restaurants,Weekend,Late Night,Online,Supermarket,High,Occasional,0
+224.40820974126825,Restaurants,Weekend,Evening,Online,Restaurant,Medium,Frequent,0
+53.053974329480766,Online Shopping,Weekday,Evening,Different State,Online Shop,Low,Occasional,0
+183.3998336167311,Groceries,Weekday,Afternoon,Online,Online Shop,High,Frequent,0
+14.180425805653037,Online Shopping,Weekday,Late Night,Local,Service Provider,Medium,Rare,0
+147.54216189563653,Restaurants,Weekday,Afternoon,Online,Retail Store,Medium,Frequent,0
+16.148046394256724,Online Shopping,Holiday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+4.227898934591358,Utilities,Weekday,Afternoon,Local,Gas Station,Medium,Rare,0
+12.650333753482949,Groceries,Weekend,Morning,Nearby City,Retail Store,Medium,Occasional,0
+49.87781784628981,Utilities,Weekday,Afternoon,Online,Restaurant,High,Frequent,0
+33.771648204539986,Groceries,Weekday,Afternoon,Online,Online Shop,Medium,Rare,0
+65.9753123271703,Online Shopping,Weekday,Evening,Online,Supermarket,High,Rare,0
+11.908387201002538,Utilities,Weekday,Late Night,Local,Online Shop,Low,Frequent,0
+53.957587720079985,Groceries,Weekday,Afternoon,Nearby City,Retail Store,High,Occasional,0
+11.893254331854607,Gas,Weekday,Afternoon,Local,Online Shop,Medium,Occasional,0
+25.819949288645567,Restaurants,Weekday,Evening,Different State,Retail Store,High,Occasional,0
+18.768733167360104,Gas,Weekend,Afternoon,Online,Restaurant,Medium,Occasional,0
+38.81357700097648,Restaurants,Holiday,Evening,Local,Online Shop,Medium,Rare,0
+81.23207051417785,Online Shopping,Weekday,Morning,Online,Service Provider,High,Frequent,0
+182.52205224886467,Online Shopping,Weekday,Morning,Local,Gas Station,Medium,Occasional,0
+85.38426394424792,Groceries,Weekend,Evening,Nearby City,Restaurant,Medium,Occasional,0
+154.28305684502743,Online Shopping,Weekend,Late Night,Nearby City,Restaurant,Medium,Frequent,0
+26.606440008219735,Online Shopping,Weekday,Afternoon,Nearby City,Gas Station,Medium,Frequent,0
+17.028714894593424,Groceries,Holiday,Afternoon,Nearby City,Gas Station,Low,Frequent,0
+51.93365861913718,Restaurants,Weekend,Afternoon,Local,Supermarket,Low,Occasional,0
+35.68080537761656,Restaurants,Weekday,Afternoon,Nearby City,Gas Station,High,Occasional,0
+81.90582122884872,Online Shopping,Weekend,Morning,Online,Gas Station,Medium,Frequent,0
+6.522015222894148,Gas,Weekday,Morning,Online,Restaurant,Medium,Frequent,0
+52.73854420031271,Gas,Weekday,Evening,Nearby City,Retail Store,Medium,Frequent,0
+15.142103145024128,Groceries,Weekday,Evening,Different State,ATM,Low,Frequent,0
+9.663067749622362,Online Shopping,Weekday,Evening,International,Restaurant,Medium,Frequent,0
+5.89101342462829,Utilities,Weekday,Evening,Nearby City,Retail Store,Medium,Occasional,0
+231.29600738593913,Utilities,Weekday,Morning,Nearby City,Restaurant,Medium,Frequent,0
+67.40246587400291,Restaurants,Weekday,Afternoon,Online,Gas Station,Medium,Rare,0
+86.4393838342375,Groceries,Weekday,Afternoon,Online,Restaurant,Medium,Occasional,0
+11.613262039098956,Restaurants,Weekend,Afternoon,Online,Restaurant,Medium,Rare,0
+10.566956607491557,Groceries,Weekday,Late Night,Nearby City,Retail Store,Low,Rare,0
+73.05546970741901,Groceries,Weekday,Morning,Local,Online Shop,Medium,Occasional,0
+32.877477217823504,Groceries,Weekday,Evening,Local,Retail Store,High,Frequent,0
+17.556890437436117,Gas,Weekday,Afternoon,Nearby City,Retail Store,High,Frequent,0
+22.28900418384515,Restaurants,Weekend,Morning,Different State,Supermarket,High,Rare,0
+95.89763003786085,Groceries,Weekend,Morning,Online,Online Shop,High,Frequent,0
+59.30817552093109,Online Shopping,Weekday,Evening,Online,Retail Store,Low,Occasional,0
+40.537948050025264,Online Shopping,Weekend,Afternoon,Online,Supermarket,Medium,Occasional,0
+56.33440471810807,Utilities,Weekday,Afternoon,Different State,Gas Station,Medium,Frequent,0
+249.22045014839273,Restaurants,Weekend,Afternoon,Nearby City,Gas Station,High,Frequent,0
+2.455107259146388,Online Shopping,Weekday,Afternoon,Nearby City,Online Shop,Medium,Rare,0
+252.43656123169504,Online Shopping,Weekday,Evening,Nearby City,Online Shop,Low,Rare,0
+18.475855485462915,Utilities,Weekend,Afternoon,Local,Service Provider,Medium,Occasional,0
+14.677566722841181,Restaurants,Weekend,Evening,Local,Online Shop,Medium,Occasional,0
+46.29007709561487,Online Shopping,Weekday,Evening,Local,Retail Store,Medium,Occasional,0
+35.61380337085083,Gas,Weekend,Evening,Online,Gas Station,Low,Frequent,0
+49.96265737766612,Online Shopping,Weekend,Evening,Local,Retail Store,Medium,Rare,0
+5.206176311637205,Utilities,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+19.612315815602944,Restaurants,Weekday,Evening,Local,Supermarket,High,Occasional,0
+17.279492155547516,Restaurants,Weekend,Morning,Local,Supermarket,Medium,Occasional,0
+116.70788433377575,Utilities,Weekday,Afternoon,Nearby City,ATM,High,Rare,0
+23.345308703663665,Utilities,Weekday,Morning,Online,Retail Store,Medium,Occasional,0
+62.48302688467632,Online Shopping,Weekday,Afternoon,Online,Supermarket,Medium,Occasional,0
+5.058994936652452,Online Shopping,Weekend,Morning,Local,Restaurant,High,Occasional,0
+1.3657272585238687,Groceries,Weekend,Morning,Nearby City,Gas Station,Medium,Rare,0
+47.47082011601647,Utilities,Weekday,Afternoon,Nearby City,Online Shop,Medium,Occasional,0
+17.46290783821982,Gas,Weekday,Evening,Nearby City,Restaurant,Medium,Occasional,0
+261.0238741276903,Utilities,Weekday,Afternoon,Different State,Gas Station,Medium,Frequent,0
+166.6145032972961,Groceries,Weekday,Afternoon,Online,Gas Station,Low,Frequent,0
+30.683207400598278,Utilities,Weekday,Afternoon,Local,Restaurant,Low,Occasional,0
+10.842627943264016,Gas,Weekday,Evening,Nearby City,Restaurant,Medium,Frequent,0
+9.506332552942308,Gas,Weekday,Afternoon,Online,Retail Store,Low,Rare,0
+10.22026383144842,Groceries,Weekday,Evening,Local,Online Shop,Medium,Occasional,0
+48.865148152316245,Online Shopping,Weekday,Morning,Local,Online Shop,Medium,Occasional,0
+44.005642900112804,Restaurants,Weekday,Evening,Local,Online Shop,Medium,Occasional,0
+87.35821466694162,Online Shopping,Weekday,Morning,Local,Restaurant,High,Occasional,0
+100.68679716125793,Gas,Weekend,Evening,Local,Online Shop,Medium,Frequent,0
+34.65607101090893,Restaurants,Weekday,Morning,Local,Retail Store,Medium,Frequent,0
+43.17218356799744,Restaurants,Weekday,Late Night,Local,Supermarket,Medium,Occasional,0
